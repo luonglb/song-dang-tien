@@ -2,6 +2,36 @@
   "goc_commit": "e2605d3e",
   "cap_nhat": "2026-11-03",
   "chuong": {
+    "1": {
+      "slug": "01-dung-chet-som",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 48,
+      "soMucGoc": 48,
+      "loiMay": 0,
+      "chuaKiemChung": 16,
+      "nhan": {
+        "xanh": 37,
+        "vang": 11,
+        "do": 0
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
+    "3": {
+      "slug": "03-dung-phi-suc",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 27,
+      "soMucGoc": 27,
+      "loiMay": 0,
+      "chuaKiemChung": 4,
+      "nhan": {
+        "xanh": 25,
+        "vang": 2,
+        "do": 0
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
     "13": {
       "slug": "13-tinh-huong-khan-cap",
       "buoc": "kiem",
