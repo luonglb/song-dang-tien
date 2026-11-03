@@ -1,6 +1,5 @@
 # Dựng PDF Sống Đáng Tiền
 
-Chạy ở thư mục `E:\AI\zero2better.com` bằng PowerShell:
 
 ```powershell
 node .\song-dang-tien\pdf\build.mjs
