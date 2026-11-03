@@ -19,7 +19,7 @@ Không cần làm hết. Đây là danh sách để chọn, không phải danh s
 
 ## Đọc ở đâu
 - Đọc trên GitHub: bấm tên chương ở bảng dưới.
-- Bản web có tìm kiếm, lọc (gõ không dấu vẫn ra): **zero2better.com/song-dang-tien** *(sắp mở)*.
+- Bản web có tìm kiếm, lọc (gõ không dấu vẫn ra): **<https://zero2better.com/song-dang-tien/>**
 - File PDF tặng miễn phí: *(đang làm)*.
 
 ## Mục lục và tiến độ dịch
