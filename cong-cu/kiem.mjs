@@ -103,7 +103,7 @@ function kiemChuong(so) {
     } else if (vh === 'vang') L(n, 'Nhãn vang bắt buộc có khung "🇻🇳 Ở Việt Nam"');
     if (vh === 'do' && !v.lines.some(l => l.trim() === '*Chỉ áp dụng ở Trung Quốc.*')) L(n, 'Nhãn do cần dòng "*Chỉ áp dụng ở Trung Quốc.*"');
     // số khẩn cấp TQ trong phần dịch → nhắc có khung VN
-    if (/\b(120|110|119)\b/.test(v.body) && !v.box) W(n, 'Phần dịch có số 120/110/119 nhưng không có khung VN (115/113/114)');
+    if (/(gọi|bấm|số|đường dây)\s*(cấp cứu\s*)?(120|110|119)\b|\b(120|110|119)\s*(\/|hoặc|và)\s*(120|110|119)\b/i.test(v.body) && !v.box) W(n, 'Phần dịch có số 120/110/119 nhưng không có khung VN (115/113/114)');
   });
   return r;
 }

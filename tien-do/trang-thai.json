@@ -32,6 +32,21 @@
       },
       "ghiChu": "chờ Codex kiểm chéo"
     },
+    "4": {
+      "slug": "04-dung-phi-thoi-gian",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 18,
+      "soMucGoc": 18,
+      "loiMay": 0,
+      "chuaKiemChung": 1,
+      "nhan": {
+        "xanh": 18,
+        "vang": 0,
+        "do": 0
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
     "13": {
       "slug": "13-tinh-huong-khan-cap",
       "buoc": "kiem",
