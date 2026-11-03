@@ -1,0 +1,4 @@
+node_modules/
+pdf/out/
+*.log
+.DS_Store
