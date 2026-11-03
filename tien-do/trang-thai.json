@@ -17,6 +17,21 @@
       },
       "ghiChu": "chờ Codex kiểm chéo"
     },
+    "2": {
+      "slug": "02-dung-chet-mon",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 47,
+      "soMucGoc": 47,
+      "loiMay": 0,
+      "chuaKiemChung": 10,
+      "nhan": {
+        "xanh": 42,
+        "vang": 5,
+        "do": 0
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
     "3": {
       "slug": "03-dung-phi-suc",
       "buoc": "dich",
