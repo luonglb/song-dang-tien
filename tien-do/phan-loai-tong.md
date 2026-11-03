@@ -16,7 +16,7 @@ Nguồn: bản gốc tiếng Trung tại commit e2605d3e; 34 chương. Ngày ph�
 | 10 | 11 | 12 | 0 | 23 |
 | 11 | 1 | 18 | 2 | 21 |
 | 12 | 4 | 24 | 0 | 28 |
-| 13 | 42 | 6 | 0 | 48 |
+| 13 | 38 | 10 | 0 | 48 |
 | 14 | 7 | 5 | 0 | 12 |
 | 15 | 0 | 16 | 2 | 18 |
 | 16 | 11 | 3 | 0 | 14 |
@@ -38,6 +38,6 @@ Nguồn: bản gốc tiếng Trung tại commit e2605d3e; 34 chương. Ngày ph�
 | 32 | 0 | 12 | 0 | 12 |
 | 33 | 8 | 13 | 0 | 21 |
 | 34 | 8 | 5 | 0 | 13 |
-| **Tổng** | **371** | **384** | **12** | **767** |
+| **Tổng** | **367** | **388** | **12** | **767** |
 
 Nhãn theo SPEC mục 5 và hướng dẫn dịch mục 4. Phân vân xanh/vàng chọn vàng. Số khẩn cấp hoặc ví dụ Trung Quốc tự chúng không khiến cả mục thành đỏ. Mục du học về luật nước đến là vàng; thủ tục đặc thù Trung Quốc là đỏ. Nhãn là mức Việt hóa; không xác nhận tính đúng hoặc hiệu lực của quy định gốc.
