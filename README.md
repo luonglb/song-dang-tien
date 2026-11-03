@@ -24,7 +24,7 @@ Không cần làm hết. Đây là danh sách để chọn, không phải danh s
 
 ## Mục lục và tiến độ dịch
 <!-- tien-do:bat-dau -->
-Đã dịch **297/767 mục** · cập nhật 2026-11-03
+Đã dịch **395/767 mục** · cập nhật 2026-11-03
 
 | Chương | Số mục | Trạng thái |
 |---|---:|---|
@@ -35,9 +35,9 @@ Không cần làm hết. Đây là danh sách để chọn, không phải danh s
 | [5. Đừng phí tiền](sach/05-dung-phi-tien.md) | 51 | 📝 đã dịch, chờ kiểm chéo |
 | [6. Danh sách nên tránh](sach/06-danh-sach-nen-tranh.md) | 35 | 📝 đã dịch, chờ kiểm chéo |
 | [7. Sống thế nào khi không có tiền](sach/07-khi-khong-co-tien.md) | 23 | 📝 đã dịch, chờ kiểm chéo |
-| 8. Đừng tự sa bẫy | 46 | ⏳ chưa dịch |
-| 9. Lằn ranh pháp luật người thường dễ vướng | 29 | ⏳ chưa dịch |
-| 10. Yêu và cưới có đáng không | 23 | ⏳ chưa dịch |
+| [8. Đừng tự sa bẫy](sach/08-dung-tu-sa-bay.md) | 46 | 📝 đã dịch, chờ kiểm chéo |
+| [9. Lằn ranh pháp luật người thường dễ vướng](sach/09-lan-ranh-phap-luat.md) | 29 | 📝 đã dịch, chờ kiểm chéo |
+| [10. Yêu và cưới có đáng không](sach/10-yeu-va-cuoi.md) | 23 | 📝 đã dịch, chờ kiểm chéo |
 | 11. Lằn ranh dân lập trình và kỹ thuật dễ vướng | 21 | ⏳ chưa dịch |
 | 12. Khởi nghiệp và làm ăn | 28 | ⏳ chưa dịch |
 | [13. Tình huống khẩn cấp](sach/13-tinh-huong-khan-cap.md) | 48 | 🔎 đang kiểm chéo |

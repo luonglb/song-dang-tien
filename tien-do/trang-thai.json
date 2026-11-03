@@ -107,6 +107,51 @@
       },
       "ghiChu": "chờ Codex kiểm chéo"
     },
+    "8": {
+      "slug": "08-dung-tu-sa-bay",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 46,
+      "soMucGoc": 46,
+      "loiMay": 0,
+      "chuaKiemChung": 35,
+      "nhan": {
+        "xanh": 1,
+        "vang": 44,
+        "do": 1
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
+    "9": {
+      "slug": "09-lan-ranh-phap-luat",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 29,
+      "soMucGoc": 29,
+      "loiMay": 0,
+      "chuaKiemChung": 24,
+      "nhan": {
+        "xanh": 0,
+        "vang": 29,
+        "do": 0
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
+    "10": {
+      "slug": "10-yeu-va-cuoi",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 23,
+      "soMucGoc": 23,
+      "loiMay": 0,
+      "chuaKiemChung": 10,
+      "nhan": {
+        "xanh": 11,
+        "vang": 12,
+        "do": 0
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
     "13": {
       "slug": "13-tinh-huong-khan-cap",
       "buoc": "kiem",
