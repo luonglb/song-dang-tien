@@ -22,4 +22,4 @@ Font từ kho Google Fonts chính thức, giấy phép SIL OFL 1.1 được lưu
 
 Tiêu đề dùng Be Vietnam Pro; thân dùng Noto Serif. Tên nguồn tiếng Trung dùng font dự phòng Microsoft YaHei trên Windows. Cờ Việt Nam được vẽ trực tiếp bằng Typst để không phụ thuộc hỗ trợ emoji của máy.
 
-Mẫu và cách ghép sách chuyển từ `eternity4719/HowToLiveBetter`, commit `e2605d3e`, công cụ MIT; giữ đầy đủ ghi công trong `LICENSE-MIT.txt`. Nội dung sách CC BY 4.0. Không tự đăng PDF lên web.
+Mẫu và cách ghép sách chuyển từ `eternity4719/HowToLiveBetter`, commit `e2605d3e`, công cụ MIT; giữ đầy đủ ghi công trong `LICENSE-MIT.txt`. Nội dung sách CC BY 4.0.
