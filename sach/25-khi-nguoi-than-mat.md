@@ -55,7 +55,7 @@ Phần tang lễ dựa trên Điều lệ Quản lý Tang lễ bản mới của
 > - ⚠️ Chưa kiểm chứng: Việt Nam có quy định ai được đưa đón thi thể, thời gian quàn, nhà xác bệnh viện có được làm dịch vụ tang lễ không, và giấy tờ cần để hoả táng (nghị định về nghĩa trang, cơ sở hoả táng; quy định về việc tang của Bộ Văn hoá).
 > *Nguồn VN:* [Luật Khám bệnh, chữa bệnh 2023 Điều 73](https://hethongphapluat.com/luat-kham-benh-chua-benh-2023/dieu-73) · *Kiểm chứng ngày 03/11/2026*
 
-### 4. Nghi ngờ nguyên nhân tử vong thì đề nghị khám nghiệm tử thi trong 48 giờ, đồng thời niêm phong bệnh án
+### 4. Nghi ngờ nguyên nhân tử vong thì đề nghị và thực hiện khám nghiệm tử thi trong 48 giờ, đồng thời niêm phong bệnh án
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
 <!-- goc: 25.4 · viet-hoa: vang -->
 - **Chi phí:** Không tốn tiền. Khó là lúc đó còn nhớ ra để đề nghị.
@@ -142,7 +142,7 @@ Phần tang lễ dựa trên Điều lệ Quản lý Tang lễ bản mới của
 
 > **🇻🇳 Ở Việt Nam**
 > - **Trợ cấp mai táng** bằng **10 lần mức tham chiếu** tại tháng người đó mất, trả một lần cho tổ chức, cá nhân lo mai táng. Áp dụng khi người mất đã đóng BHXH bắt buộc đủ 12 tháng trở lên, hoặc chết do tai nạn lao động, bệnh nghề nghiệp, hoặc đang hưởng lương hưu, trợ cấp tai nạn lao động hằng tháng (Luật BHXH 2024 Điều 85).
-> - **Tiền tuất hằng tháng** cho thân nhân (con dưới 18 tuổi…) nếu người mất đã đóng BHXH bắt buộc đủ 15 năm, đang hưởng lương hưu, hoặc chết do tai nạn lao động, bệnh nghề nghiệp (Điều 86). Không đủ điều kiện, không có thân nhân hưởng hằng tháng, hoặc thân nhân muốn thì nhận **tuất một lần** (Điều 88).
+> - **Tiền tuất hằng tháng** cho thân nhân (con dưới 18 tuổi…) nếu người mất thuộc một trong các trường hợp: đã đóng BHXH bắt buộc từ đủ 15 năm; đang hưởng hoặc đang tạm dừng hưởng lương hưu; chết do tai nạn lao động, bệnh nghề nghiệp; đang hưởng hoặc đang tạm dừng hưởng trợ cấp tai nạn lao động, bệnh nghề nghiệp hằng tháng với mức suy giảm khả năng lao động từ 61% trở lên (Điều 86 khoản 1). Thân nhân cũng phải đủ điều kiện ở các khoản sau của Điều 86. Không đủ điều kiện, không có thân nhân hưởng hằng tháng, hoặc thân nhân muốn thì nhận **tuất một lần** (Điều 88).
 > - Mức tuất một lần: mỗi năm đóng trước 2014 được 1,5 tháng, từ 2014 trở đi 2 tháng lương bình quân đóng BHXH, thấp nhất 3 tháng. Người đang hưởng lương hưu mất trong 2 tháng đầu: 48 tháng lương hưu, sau đó mỗi tháng giảm 0,5 tháng, thấp nhất 3 tháng (Điều 89). Không có thân nhân theo luật thì tuất một lần chia theo pháp luật về thừa kế (Điều 88 khoản 2 điểm d).
 > - Chết vì tai nạn lao động: xem chương 19 mục 15.
 > - ⚠️ Chưa kiểm chứng: số tiền cụ thể của mức tham chiếu hiện hành; Việt Nam có khoản nào tương tự quỹ dự phòng nhà ở của Trung Quốc mà người thừa kế rút được không.
@@ -180,7 +180,7 @@ Phần tang lễ dựa trên Điều lệ Quản lý Tang lễ bản mới của
 > - ⚠️ Chưa kiểm chứng: Việt Nam có quy định "im lặng thì coi là nhận thừa kế" như Trung Quốc không, và rút tiền của người mất trước khi từ chối thì bị coi là đã nhận di sản hay chưa.
 > *Nguồn VN:* [Bộ luật Dân sự 2015 Điều 614](https://hethongphapluat.com/bo-luat-dan-su-2015/dieu-614) · [Điều 615](https://hethongphapluat.com/bo-luat-dan-su-2015/dieu-615) · [Điều 620](https://hethongphapluat.com/bo-luat-dan-su-2015/dieu-620) · [Điều 658](https://hethongphapluat.com/bo-luat-dan-su-2015/dieu-658) · [Luật Công chứng 2024 Điều 60](https://hethongphapluat.com/luat-cong-chung-2024/dieu-60) · *Kiểm chứng ngày 03/11/2026*
 
-### 12. Người nhà mất rồi làm thừa kế, đừng mặc định phải đi công chứng trước: tiền gửi dưới 50.000 nhân dân tệ ở một ngân hàng thì tới thẳng ngân hàng rút, nhà thì toàn bộ người thừa kế cùng tới cơ quan đăng ký bất động sản làm
+### 12. Người nhà mất rồi làm thừa kế, đừng mặc định phải đi công chứng trước: tiền gửi không quá 50.000 nhân dân tệ ở một ngân hàng thì tới thẳng ngân hàng rút, nhà thì toàn bộ người thừa kế cùng tới cơ quan đăng ký bất động sản làm
 <!-- 成本标签: 钱=0 时间=中 毅力=否 收益=中 口径=金钱 -->
 <!-- goc: 25.12 · viet-hoa: vang -->
 - **Chi phí:** Không tốn tiền. Ngân hàng nào có tiền gửi thì phải chạy từng nhà. Làm nhà thì phải hẹn đủ toàn bộ người thừa kế, cùng một ngày tới cửa đăng ký. Có người không chịu tới, có người không đồng ý cách chia thì đường này không đi được, chỉ còn cách đi công chứng hoặc kiện.
