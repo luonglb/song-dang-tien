@@ -152,6 +152,36 @@
       },
       "ghiChu": "chờ Codex kiểm chéo"
     },
+    "11": {
+      "slug": "11-lan-ranh-dan-ky-thuat",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 21,
+      "soMucGoc": 21,
+      "loiMay": 0,
+      "chuaKiemChung": 14,
+      "nhan": {
+        "xanh": 1,
+        "vang": 18,
+        "do": 2
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
+    "12": {
+      "slug": "12-khoi-nghiep",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 28,
+      "soMucGoc": 28,
+      "loiMay": 0,
+      "chuaKiemChung": 21,
+      "nhan": {
+        "xanh": 1,
+        "vang": 27,
+        "do": 0
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
     "13": {
       "slug": "13-tinh-huong-khan-cap",
       "buoc": "kiem",
@@ -166,6 +196,51 @@
         "do": 0
       },
       "ghiChu": "Codex ô 34 đang kiểm chéo"
+    },
+    "14": {
+      "slug": "14-tai-khoan-an-toan",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 12,
+      "soMucGoc": 12,
+      "loiMay": 0,
+      "chuaKiemChung": 8,
+      "nhan": {
+        "xanh": 5,
+        "vang": 7,
+        "do": 0
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
+    "15": {
+      "slug": "15-thue-mua-nha",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 18,
+      "soMucGoc": 18,
+      "loiMay": 0,
+      "chuaKiemChung": 11,
+      "nhan": {
+        "xanh": 0,
+        "vang": 15,
+        "do": 3
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
+    },
+    "17": {
+      "slug": "17-nha-co-nguoi-gia",
+      "buoc": "dich",
+      "ngay": "2026-11-03",
+      "soMuc": 13,
+      "soMucGoc": 13,
+      "loiMay": 0,
+      "chuaKiemChung": 4,
+      "nhan": {
+        "xanh": 6,
+        "vang": 6,
+        "do": 1
+      },
+      "ghiChu": "chờ Codex kiểm chéo"
     }
   }
 }

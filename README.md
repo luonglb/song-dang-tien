@@ -24,7 +24,7 @@ Không cần làm hết. Đây là danh sách để chọn, không phải danh s
 
 ## Mục lục và tiến độ dịch
 <!-- tien-do:bat-dau -->
-Đã dịch **395/767 mục** · cập nhật 2026-11-03
+Đã dịch **487/767 mục** · cập nhật 2026-11-03
 
 | Chương | Số mục | Trạng thái |
 |---|---:|---|
@@ -38,13 +38,13 @@ Không cần làm hết. Đây là danh sách để chọn, không phải danh s
 | [8. Đừng tự sa bẫy](sach/08-dung-tu-sa-bay.md) | 46 | 📝 đã dịch, chờ kiểm chéo |
 | [9. Lằn ranh pháp luật người thường dễ vướng](sach/09-lan-ranh-phap-luat.md) | 29 | 📝 đã dịch, chờ kiểm chéo |
 | [10. Yêu và cưới có đáng không](sach/10-yeu-va-cuoi.md) | 23 | 📝 đã dịch, chờ kiểm chéo |
-| 11. Lằn ranh dân lập trình và kỹ thuật dễ vướng | 21 | ⏳ chưa dịch |
-| 12. Khởi nghiệp và làm ăn | 28 | ⏳ chưa dịch |
+| [11. Lằn ranh dân lập trình và kỹ thuật dễ vướng](sach/11-lan-ranh-dan-ky-thuat.md) | 21 | 📝 đã dịch, chờ kiểm chéo |
+| [12. Khởi nghiệp và làm ăn](sach/12-khoi-nghiep.md) | 28 | 📝 đã dịch, chờ kiểm chéo |
 | [13. Tình huống khẩn cấp](sach/13-tinh-huong-khan-cap.md) | 48 | 🔎 đang kiểm chéo |
-| 14. Tài khoản và an toàn thông tin | 12 | ⏳ chưa dịch |
-| 15. Thuê nhà và mua nhà | 18 | ⏳ chưa dịch |
+| [14. Tài khoản và an toàn thông tin](sach/14-tai-khoan-an-toan.md) | 12 | 📝 đã dịch, chờ kiểm chéo |
+| [15. Thuê nhà và mua nhà](sach/15-thue-mua-nha.md) | 18 | 📝 đã dịch, chờ kiểm chéo |
 | 16. Sống thế nào khi mắc bệnh mạn tính | 14 | ⏳ chưa dịch |
-| 17. Nhà có người già | 13 | ⏳ chưa dịch |
+| [17. Nhà có người già](sach/17-nha-co-nguoi-gia.md) | 13 | 📝 đã dịch, chờ kiểm chéo |
 | 18. Nuôi con có đáng không | 7 | ⏳ chưa dịch |
 | 19. Đi làm, nghỉ việc và tai nạn lao động | 24 | ⏳ chưa dịch |
 | 20. Chăm trẻ sơ sinh | 17 | ⏳ chưa dịch |
