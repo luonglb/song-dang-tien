@@ -1,5 +1,21 @@
 {
   "goc_commit": "e2605d3e",
   "cap_nhat": "2026-11-03",
-  "chuong": {}
+  "chuong": {
+    "13": {
+      "slug": "13-tinh-huong-khan-cap",
+      "buoc": "kiem",
+      "ngay": "2026-11-03",
+      "soMuc": 48,
+      "soMucGoc": 48,
+      "loiMay": 0,
+      "chuaKiemChung": 16,
+      "nhan": {
+        "xanh": 39,
+        "vang": 9,
+        "do": 0
+      },
+      "ghiChu": "Codex ô 34 đang kiểm chéo"
+    }
+  }
 }

@@ -129,5 +129,53 @@ Nguồn đã kiểm W0 (03/11/2026): Thông tư 22/2014/TT-BTTTT ban hành Quy h
 | Luật BHYT sửa đổi 2024 (51/2024/QH15) | hiệu lực 01/7/2025 |
 | Luật TTATGT đường bộ 2024 + Nghị định 168/2024/NĐ-CP | |
 
+## Bổ sung từ chương 13 (Manager gộp 03/11/2026)
+| Gốc | Việt |
+|---|---|
+| 短暂性脑缺血发作 TIA | cơn thiếu máu não thoáng qua (TIA) |
+| 视网膜中央动脉阻塞 | tắc động mạch trung tâm võng mạc |
+| 急性原发性闭角型青光眼 | glôcôm góc đóng nguyên phát cấp |
+| 急性冠脉综合征 / ST 段抬高心肌梗死 | hội chứng vành cấp / nhồi máu cơ tim ST chênh lên |
+| 球囊扩张 | nong bóng |
+| A 型夹层 | phình tách động mạch chủ type A |
+| 敏感性 / 特异性 | độ nhạy / độ đặc hiệu |
+| 静脉血栓栓塞 | thuyên tắc huyết khối tĩnh mạch |
+| 分级压力袜 | tất áp lực phân cấp |
+| 旋压式止血带 | garô xoắn |
+| II/III 级暴露 | phơi nhiễm độ II / độ III |
+| 狂犬病被动免疫制剂 | chế phẩm miễn dịch thụ động phòng dại (huyết thanh kháng dại) |
+| 热性惊厥 | co giật do sốt (sốt cao co giật) |
+| 肾上腺素自动注射笔 | bút tự tiêm adrenaline |
+| 抗血小板药 | thuốc chống kết tập tiểu cầu |
+| 热衰竭 / 热痉挛 | kiệt sức do nóng / chuột rút do nóng |
+| 冷水浸泡 / 蒸发降温 | ngâm nước lạnh / hạ nhiệt nhờ bay hơi |
+| 寒战 / 冻伤 | run lạnh / tê cóng |
+| 荒野医学会 (WMS) | Hội Y học Hoang dã (Wilderness Medical Society) |
+| 应急管理部 | Bộ Quản lý Ứng phó Khẩn cấp (Trung Quốc) |
+| 中国地震局 | Cục Động đất Trung Quốc |
+| 职业病 | bệnh nghề nghiệp |
+| 抗震设防 | thiết kế kháng chấn |
+| 腹部冲击 / 胸部冲击 / 背部拍击 | ép bụng / ép ngực / vỗ lưng |
+| 复苏体位 | tư thế hồi phục |
+| 安全数据表 SDS | phiếu an toàn hoá chất (SDS) |
+| 胰高血糖素 | glucagon |
+| 平房 | nhà một tầng (nhà cấp bốn) |
+| 高原病 / 高原脑水肿 / 高原肺水肿 | bệnh độ cao / phù não độ cao / phù phổi độ cao |
+| 蜱虫 | ve (ve bét) |
+| 发热伴血小板减少综合征 SFTS | hội chứng sốt giảm tiểu cầu (SFTS) |
+| 正当防卫 / 防卫过当 | phòng vệ chính đáng / vượt quá giới hạn phòng vệ chính đáng |
+| 聚众斗殴 | tụ tập đánh nhau |
+| 暴露后预防 PEP | dự phòng sau phơi nhiễm (PEP); trong câu: "thuốc dự phòng HIV" |
+| 紧急避孕药 | thuốc tránh thai khẩn cấp |
+| 婴儿 | trẻ dưới 1 tuổi (trẻ nhũ nhi) |
+| 断指再植 | nối lại ngón tay đứt |
+| 磁力珠 / 巴克球 | bi nam châm (Buckyball) |
+| 美国疾控中心 CDC | CDC Hoa Kỳ |
+| 国际红十字与红新月会联合会 IFRC | Liên đoàn Quốc tế các Hội Chữ thập đỏ và Trăng lưỡi liềm đỏ (IFRC) |
+| 人民日报 | báo Nhân dân Nhật báo (Trung Quốc) |
+| 预检分诊台 | bàn phân loại cấp cứu |
+
+Tên người, địa danh Trung Quốc ngoài trường Nguồn: phiên âm Hán-Việt (孙鹏 → Tôn Bằng). Trong Nguồn: giữ chữ Hán + phiên âm trong ngoặc khi cần.
+
 ## Đề xuất đổi từ (Manager quyết)
 - *(chưa có)*
