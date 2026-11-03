@@ -141,7 +141,7 @@ Chương này tính tiền và tự do thân thể, có vài mục còn liên qu
 
 > **🇻🇳 Ở Việt Nam**
 > - Ở Việt Nam, người nào vì vụ lợi mà tổ chức hoặc môi giới cho người khác xuất cảnh trái phép có thể bị phạt tù từ 01 đến 05 năm, trường hợp nặng tới 15 năm (Bộ luật Hình sự 2015, Điều 348).
-> - ⚠️ Chưa kiểm chứng: điều kiện đăng ký, cấp phép hoạt động của tổ chức tư vấn du học và dịch vụ làm visa ở Việt Nam (Nghị định 86/2018/NĐ-CP và văn bản sửa đổi). Hỏi Sở Giáo dục và Đào tạo nơi công ty đặt trụ sở xem công ty có trong danh sách được phép không.
+> - ⚠️ Chưa kiểm chứng: điều kiện đăng ký, cấp phép hoạt động của tổ chức tư vấn du học và dịch vụ làm visa ở Việt Nam (văn bản hiện hành về điều kiện kinh doanh dịch vụ tư vấn du học, nhiều khả năng là Nghị định 125/2024/NĐ-CP thay Nghị định 46/2017/NĐ-CP; Nghị định 86/2018/NĐ-CP là về hợp tác, đầu tư của nước ngoài trong giáo dục, không phải văn bản này). Hỏi Sở Giáo dục và Đào tạo nơi công ty đặt trụ sở xem công ty có trong danh sách được phép không.
 > *Nguồn VN:* [Bộ luật Hình sự 2015, Điều 348](https://hethongphapluat.com/bo-luat-hinh-su-2015/dieu-348) · *Kiểm chứng ngày 03/11/2026*
 
 ### 10. Đừng viết thư mời cho người lạ, cũng đừng để người khác mượn danh nghĩa bạn làm thủ tục xuất nhập cảnh

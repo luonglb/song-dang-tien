@@ -43,8 +43,8 @@ Thủ tục ngay khi người thân qua đời, việc lo thi thể và các kho
 
 > **🇻🇳 Ở Việt Nam**
 > - Luật Việc làm 2025 (74/2025/QH15, hiệu lực 01/01/2026), Điều 38 khoản 1: được hưởng trợ cấp thất nghiệp khi đã đóng bảo hiểm thất nghiệp **đủ 12 tháng trong 24 tháng** trước khi nghỉ và **nộp đủ hồ sơ trong 3 tháng** kể từ ngày chấm dứt hợp đồng. Nộp ở trung tâm dịch vụ việc làm; chi tiết xem khung VN chương 7.
-> - Điều 39 khoản 4: trong thời gian hưởng trợ cấp thất nghiệp, bạn vẫn có **bảo hiểm y tế**, do cơ quan bảo hiểm xã hội đóng từ quỹ bảo hiểm thất nghiệp. Hết thời gian hưởng mà chưa có việc thì tự mua bảo hiểm y tế hộ gia đình; đóng không liên tục thì thẻ chỉ có giá trị sau 30 ngày (Luật BHYT bản 2008, Điều 16 khoản 3). ⚠️ Chưa kiểm chứng: quy định 30 ngày này có bị Luật BHYT sửa đổi 2024 (51/2024/QH15) thay đổi không.
-> *Nguồn VN:* [Luật Việc làm số 74/2025/QH15, toàn văn, Điều 38–39](https://xaydungchinhsach.chinhphu.vn/toan-van-luat-viec-lam-119250711173403835.htm) · [Luật BHYT 2008 Điều 16](https://hethongphapluat.com/luat-bao-hiem-y-te-2008/dieu-16) · *Kiểm chứng ngày 03/11/2026*
+> - Điều 39 khoản 4: trong thời gian hưởng trợ cấp thất nghiệp, bạn vẫn có **bảo hiểm y tế**, do cơ quan bảo hiểm xã hội đóng từ quỹ bảo hiểm thất nghiệp. Hết thời gian hưởng mà chưa có việc thì tự mua bảo hiểm y tế hộ gia đình ngay; để đứt quãng **từ 90 ngày trở lên** thì thẻ mới chỉ có giá trị **sau 30 ngày** kể từ ngày đóng đủ (Luật BHYT, Điều 16 khoản 3 điểm c, sửa bởi Luật 51/2024/QH15, Điều 1 khoản 14; hiệu lực 01/7/2025).
+> *Nguồn VN:* [Luật Việc làm số 74/2025/QH15, toàn văn, Điều 38–39](https://xaydungchinhsach.chinhphu.vn/toan-van-luat-viec-lam-119250711173403835.htm) · [Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm y tế, số 51/2024/QH15, Điều 1 khoản 14 (Điều 16 khoản 3 điểm c mới)](https://hethongphapluat.com/luat-bao-hiem-y-te-sua-doi-2024/dieu-1) · *Kiểm chứng ngày 03/11/2026*
 
 ### 4. Người thân mất vì tự tử, tai nạn hay bị sát hại, đừng mong tự gồng qua, hãy chủ động tìm trợ giúp chuyên môn
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=死亡率 -->
@@ -128,9 +128,9 @@ Thủ tục ngay khi người thân qua đời, việc lo thi thể và các kho
 - **Ghi chú:** Bài gốc chỉ nói "tăng rõ" và so sánh theo nhóm, không đưa ra con số gấp bao nhiêu lần để trích, nên ở đây không ghi số cụ thể. Mức lợi ích xếp là vừa, theo kiểu "biết hướng, nhưng không có mức giảm nào để áp ngưỡng". Tài sản, nợ và tiền sính lễ khi ly hôn xem chương 8 và chương 10. Sắp xếp nuôi con xem chương 10 mục 23 (thoả thuận ly hôn ghi rõ tiền cấp dưỡng và quyền thăm con).
 
 > **🇻🇳 Ở Việt Nam**
-> - Trước đây bạn có bảo hiểm y tế qua công ty hay theo hộ gia đình của vợ/chồng thì sau ly hôn hãy kiểm tra hạn thẻ. Không còn thuộc nhóm nào khác thì tự tham gia **bảo hiểm y tế hộ gia đình**. Luật BHYT (bản 2008), Điều 16 khoản 3: đóng liên tục thì thẻ có giá trị từ ngày đóng; đóng **lần đầu hoặc không liên tục** thì thẻ chỉ có giá trị **sau 30 ngày**, riêng dịch vụ kỹ thuật cao sau 180 ngày. Để đứt quãng là phải chờ.
-> - ⚠️ Chưa kiểm chứng: thủ tục chuyển thẻ khi rời hộ gia đình của vợ/chồng sau ly hôn, và quy định 30 ngày trên có bị Luật BHYT sửa đổi 2024 (51/2024/QH15, hiệu lực 01/7/2025) thay đổi không.
-> *Nguồn VN:* [Luật BHYT 2008 Điều 16](https://hethongphapluat.com/luat-bao-hiem-y-te-2008/dieu-16) · *Kiểm chứng ngày 03/11/2026*
+> - Trước đây bạn có bảo hiểm y tế qua công ty hay theo hộ gia đình của vợ/chồng thì sau ly hôn hãy kiểm tra hạn thẻ. Không còn thuộc nhóm nào khác thì tự tham gia **bảo hiểm y tế hộ gia đình**. Người tự đóng theo hộ gia đình mà tham gia **lần đầu**, hoặc đã từng có thẻ nhưng **đứt quãng từ 90 ngày trở lên**, thì thẻ chỉ có giá trị **sau 30 ngày** kể từ ngày đóng đủ (Luật BHYT, Điều 16 khoản 3 điểm c, sửa bởi Luật 51/2024/QH15, Điều 1 khoản 14; hiệu lực 01/7/2025). Để đứt quãng là phải chờ.
+> - ⚠️ Chưa kiểm chứng: thủ tục chuyển thẻ khi rời hộ gia đình của vợ/chồng sau ly hôn, và thời gian chờ riêng cho dịch vụ kỹ thuật cao (nếu còn) theo bản hợp nhất hiện hành.
+> *Nguồn VN:* [Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm y tế, số 51/2024/QH15, Điều 1 khoản 14 (Điều 16 khoản 3 điểm c mới)](https://hethongphapluat.com/luat-bao-hiem-y-te-sua-doi-2024/dieu-1) · *Kiểm chứng ngày 03/11/2026*
 
 ### 11. Cần người nói chuyện cùng thì gọi 12356, trẻ vị thành niên và thanh thiếu niên gọi 12355, cần gặp bác sĩ thì khám ở phòng khám tâm lý
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->

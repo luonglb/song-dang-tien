@@ -51,7 +51,8 @@ Chương này tính hai khoản: tiền và thời gian. Giống chương 10 tí
 
 > **🇻🇳 Ở Việt Nam**
 > - Người sử dụng lao động **không được sa thải hoặc đơn phương chấm dứt hợp đồng** với người lao động vì lý do kết hôn, mang thai, nghỉ thai sản, nuôi con dưới 12 tháng tuổi; ngoại lệ chỉ khi chủ là cá nhân đã chết, mất tích, mất năng lực hành vi dân sự, hoặc tổ chức chấm dứt hoạt động. Hợp đồng hết hạn trong lúc mang thai hoặc nuôi con dưới 12 tháng thì lao động nữ được ưu tiên ký hợp đồng mới (Bộ luật Lao động 2019 Điều 137 khoản 3).
-> - Không được bắt làm ban đêm, làm thêm giờ, đi công tác xa khi mang thai từ tháng thứ 7 (từ tháng thứ 6 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo), hoặc khi đang nuôi con dưới 12 tháng tuổi, trừ khi người lao động đồng ý (Điều 137 khoản 1).
+> - Người mang thai từ tháng thứ 7 (từ tháng thứ 6 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo): người sử dụng lao động không được bố trí làm ban đêm, làm thêm giờ, đi công tác xa (Điều 137 khoản 1 điểm a).
+> - Người đang nuôi con dưới 12 tháng tuổi: cũng không bị bố trí làm ban đêm, làm thêm giờ, đi công tác xa, **trừ khi người lao động đồng ý** (Điều 137 khoản 1 điểm b).
 > - Nuôi con dưới 12 tháng tuổi được nghỉ **60 phút mỗi ngày** trong giờ làm, vẫn hưởng đủ lương (Điều 137 khoản 4).
 > - ⚠️ Chưa kiểm chứng: mức phạt người sử dụng lao động vi phạm các điều trên (thường được dẫn là Nghị định 12/2022/NĐ-CP Điều 28; chưa đọc được nguyên văn điều khoản).
 > *Nguồn VN:* [Bộ luật Lao động 2019 Điều 137](https://hethongphapluat.com/bo-luat-lao-dong-2019/dieu-137) · *Kiểm chứng ngày 03/11/2026*
@@ -68,13 +69,13 @@ Chương này tính hai khoản: tiền và thời gian. Giống chương 10 tí
 
 ### 5. Tính khoản tiền theo ba chặng: từ 0 đến 3 tuổi, giáo dục bắt buộc, sau giáo dục bắt buộc
 <!-- 成本标签: 钱=多 时间=中 毅力=些 收益=大 口径=金钱 -->
-<!-- goc: 18.5 · viet-hoa: xanh -->
+<!-- goc: 18.5 · viet-hoa: vang -->
 - **Chi phí:** Tốn bao nhiêu tiền thì không có con số cố định, mỗi thành phố, mỗi cách nuôi chênh nhau rất xa. Khó là phải ngồi xuống tách riêng ba chặng ra tính, không thể ước đại một con số theo cảm giác.
-- **Nói đơn giản:** Tiền cho con từ 0 đến 3 tuổi chủ yếu tuỳ vào ai trông: tự trông, ông bà trông hay thuê người trông. Chặng tiểu học đến trung học cơ sở, tiền chủ yếu nằm ở nhà ở và học thêm ngoài giờ. Sau đó, tiền chủ yếu nằm ở con đường học lên. Ba chặng tiêu tiền hoàn toàn khác nhau, gộp chung chỉ ra một con số tổng làm bạn hoảng.
+- **Nói đơn giản:** Tiền cho con từ 0 đến 3 tuổi chủ yếu tuỳ vào ai trông: tự trông, ông bà trông hay thuê người trông. Chặng tiểu học đến trung học cơ sở, tiền chủ yếu nằm ở nhà ở và các hoạt động ngoài giờ học. Sau đó, tiền chủ yếu nằm ở con đường học lên. Ba chặng tiêu tiền hoàn toàn khác nhau, gộp chung chỉ ra một con số tổng làm bạn hoảng.
 - **Lợi ích:** Từ 0 đến 3 tuổi, khoản lớn nhất là cách trông con: tự trông, ông bà trông hay thuê người trông. Giai đoạn giáo dục bắt buộc (tiểu học đến trung học cơ sở), khoản lớn nhất là nhà ở và chi tiêu ngoài giờ học. Sau đó, khoản lớn nhất là con đường học lên. Tiền của ba chặng này tiêu vào những chỗ hoàn toàn khác nhau, gộp chung lại tính chỉ ra một con số tổng làm bạn hoảng
 - **Mức bằng chứng:** C
 - **Nguồn:** Kinh nghiệm của tác giả (gốc), không có tài liệu trực tiếp
-- **Ghi chú:** Trước hết tính các khoản chắc chắn nhận được như trợ cấp nuôi con, trợ cấp sinh đẻ, tiền bảo hiểm y tế chi trả, rồi xem còn thiếu bao nhiêu. Đừng lấy con số truyền nhau trên mạng kiểu "nuôi một đứa con lớn mất bao nhiêu trăm triệu" để quyết định, loại số đó không rõ cách tính, bạn không biết nó đã tính những gì, bỏ sót những gì
+- **Ghi chú:** Trước hết tính các khoản chắc chắn nhận được như trợ cấp nuôi con, trợ cấp sinh đẻ, tiền bảo hiểm y tế chi trả, rồi xem còn thiếu bao nhiêu. Đừng lấy con số truyền nhau trên mạng kiểu "nuôi một đứa con lớn mất bao nhiêu chục nghìn nhân dân tệ" để quyết định, loại số đó không rõ cách tính, bạn không biết nó đã tính những gì, bỏ sót những gì
 
 > **🇻🇳 Ở Việt Nam**
 > - Các khoản chắc chắn nhận được ở Việt Nam khác Trung Quốc: không có trợ cấp nuôi con phát hằng năm cho mọi trẻ (xem mục 1). Người đóng BHXH bắt buộc đủ điều kiện có trợ cấp thai sản mỗi tháng bằng 100% mức bình quân tiền lương đóng BHXH của 6 tháng gần nhất và trợ cấp một lần mỗi con bằng 2 lần mức tham chiếu (Luật BHXH 2024 Điều 59 khoản 1, Điều 58 khoản 4; xem mục 2). Cha hoặc mẹ được giảm trừ thuế 6,2 triệu đồng/tháng cho mỗi con là người phụ thuộc (xem mục 1).
