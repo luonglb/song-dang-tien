@@ -1,5 +1,6 @@
 node_modules/
 pdf/out/
+pdf/bin/
 *.log
 .DS_Store
 .env
