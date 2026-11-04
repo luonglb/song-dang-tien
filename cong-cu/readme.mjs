@@ -5,7 +5,6 @@ import { resolve } from 'node:path';
 import { REPO, CHUONG, read, parseGoc } from './lib.mjs';
 
 const st = JSON.parse(read(resolve(REPO, 'tien-do', 'trang-thai.json')));
-const TEN = { dich: '📝 đã dịch, chờ kiểm chéo', kiem: '🔎 đang kiểm chéo', sua: '🛠️ đang sửa', xong: '✅ xong' };
 let tong = 0, daDich = 0;
 const rows = CHUONG.map(c => {
   const n = parseGoc(c.so).items.length; tong += n;
@@ -13,13 +12,13 @@ const rows = CHUONG.map(c => {
   const coFile = existsSync(resolve(REPO, 'sach', c.slug + '.md'));
   if (s && coFile) daDich += s.soMuc;
   const ten = coFile && s ? `[${c.so}. ${c.ten}](sach/${c.slug}.md)` : `${c.so}. ${c.ten}`;
-  return `| ${ten} | ${n} | ${s && coFile ? TEN[s.buoc] : '⏳ chưa dịch'} |`;
+  return `| ${ten} | ${n} |`;
 });
 const bang = [
   `Đã dịch **${daDich}/${tong} mục** · cập nhật ${st.cap_nhat}`,
   '',
-  '| Chương | Số mục | Trạng thái |',
-  '|---|---:|---|',
+  '| Chương | Số mục |',
+  '|---|---:|',
   ...rows,
 ].join('\n');
 const p = resolve(REPO, 'README.md');
