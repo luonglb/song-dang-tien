@@ -48,3 +48,49 @@ TRẠNG THÁI: XONG
 - 19.7: bỏ câu "mất cả quyền đòi", đổi thành nguy cơ khó chứng minh; thêm điều kiện và cách tính của Điều 47; viết lại điểm d "trong thời hạn 10 ngày làm việc".
 - 7.2: thêm điều kiện "đã tìm mọi biện pháp" và căn cứ lãi của Điều 97 khoản 4.
 - 7.16: thêm khoản 13 Điều 76 và sửa danh sách ở Điều 78 khoản 2 theo Luật Dân số 2025.
+
+## Lần 2 (Codex độc lập) — 05/11/2026
+
+Máy kiểm: Codex · Windows/PowerShell · Node.js.
+Phạm vi: 7.2, 7.16, 19.1, 19.7 theo brief bổ sung. Đã đọc Lần 1, “Sửa theo Lần 1”, ghi chú Worker tại thư mục giao-viec của dự án cha, toàn bộ bốn nháp và khung Việt Nam. Dùng git diff 6a9f2ea HEAD; không dùng diff rỗng sau commit để suy kết luận. Không chứng nhận lại năm mục còn lại của Lần 1.
+
+### Xác nhận từng lỗi Lần 1
+
+| Lỗi cũ | Kết quả |
+|---|---|
+| 19.1: thiếu chế độ tuần và ngoại lệ | Đã hết: đối chiếu Điều 105, 107–108 [A]. |
+| 19.7: ký tự nguyện thì mất quyền Điều 41 | Đã hết: chuyển thành cảnh báo khó chứng minh [A]. |
+| 19.7: thiếu điều kiện/cách trừ thời gian trợ cấp mất việc | Đã hết lỗi cũ: đủ mốc 12 tháng và phép trừ theo Điều 47 [A]. Còn thiếu căn cứ tiền lương nêu dưới. |
+| 7.2: thiếu điều kiện bất khả kháng và căn cứ lãi | Đã hết: khớp Điều 97(4), gồm ngân hàng, kỳ hạn và thời điểm [A]. |
+| 7.16: thiếu nhóm khoản 13 | Đã hết: đúng Điều 29(3)(a),(d),(đ), Điều 30 Luật Dân số; đối chiếu thêm hợp nhất 79/2026 [B, C]. |
+| 19.7: diễn đạt “sau 10 ngày” | Đã hết: đúng khoảng thời gian tại Điều 38(1)(d), đọc trực tiếp Báo Chính phủ [D]. |
+
+### Lỗi còn cần sửa
+
+- [VỪA] 19.7, sach/_nhap/19/07.md dòng 12–13 · Hai công thức trợ cấp dùng “nửa tháng lương mỗi năm” và “mỗi năm làm việc 1 tháng lương, ít nhất 2 tháng”, chưa xác định tiền lương nào. Điều 46(3), 47(3) dùng bình quân sáu tháng liền kề theo hợp đồng trước khi thôi/mất việc [A]. Người có lương biến động dễ tính nhầm; chưa thấy sách chỉ định sai một mức lương cụ thể. Đề xuất thêm một câu xác định căn cứ lương cho cả hai công thức. Đây là phát hiện bổ sung, không ghi sáu lỗi cũ là chưa sửa.
+
+Đạt: bốn mục đã xử lý đủ sáu lỗi cũ. Câu liền kề về nghỉ ngay có dẫn ngoại lệ; điều kiện thất nghiệp vẫn giữ đang đóng, cửa sổ đóng và hạn hồ sơ. Các ví dụ loại trừ có chữ “như” và dẫn toàn điểm d, không được hiểu là danh sách đầy đủ [D]. Mức phạt và biện pháp trả lương/lãi trong hai khung lao động khớp Điều 7, 23, 66 NĐ 283 [E]. Nhãn chưa kiểm chứng về đầu mối thanh tra, thủ tục và căn cứ hình sự còn giữ; không dùng việc có nghị định xử phạt để suy đã kiểm xong thủ tục khiếu nại.
+
+### Kiểm tra kỹ thuật
+
+- node cong-cu/kiem.mjs 7: 23/23 mục, 0 lỗi, 0 cảnh báo.
+- node cong-cu/kiem.mjs 19: 24/24 mục, 0 lỗi, 0 cảnh báo.
+- So sánh bằng Node với 6a9f2ea: toàn bộ phần trước khung Việt Nam của bốn nháp giống nguyên bản; bao gồm tiêu đề và sáu trường.
+- git diff 6a9f2ea HEAD --check giới hạn bốn nháp: không lỗi. --stat giới hạn bốn nháp: 19 dòng thêm, 16 dòng bỏ, chỉ chương 07/19. Đây là kiểm tra phạm vi được giao, không kết luận diff toàn kho chỉ có nhóm lao động vì các nhóm khác làm chung.
+- Không sửa sách, không commit/push; chỉ thêm báo cáo này. Không mở bản tiếng Việt khác của sách. Không gặp chỉ dẫn nhắm AI trong phần nguồn đã đọc.
+
+### Nguồn đã mở
+
+- A — [Bộ luật Lao động hợp nhất, Công báo 2026](https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf): đọc lớp chữ các Điều 35, 40–41, 46–47, 97–98, 105, 107–108; các đoạn trọng tâm tại trang PDF 14–20, 39–43. Nguồn cấp 1.
+- B — [Luật Dân số 113/2025/QH15, Công báo](https://congbaocdn.chinhphu.vn/180507251028987904/2026/1/23/113signed-176916373445848348042.pdf): Điều 29(3), 30, trang PDF 14–15. Nguồn cấp 1.
+- C — [Luật Nhà ở hợp nhất 79/VBHN-VPQH năm 2026, Công báo](https://congbaocdn.chinhphu.vn/180507251028987904/2026/4/10/469209-1775794482_v1_1775811756_signed.pdf): Điều 78(1)–(2), chú thích 23–24, trang PDF 63. Có bản hợp nhất mới hơn 132/2025; bản sách dùng 132 kèm trực tiếp luật sửa đổi nên không coi riêng việc dẫn nền cũ là sai nội dung. Cũng mở [bản nền 132](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/9/132-vbhn-vpqh.pdf), Điều 76–78. Nguồn cấp 1.
+- D — [Toàn văn Luật Việc làm, Báo Chính phủ](https://xaydungchinhsach.chinhphu.vn/toan-van-luat-viec-lam-119250711173403835.htm): Điều 38(1)(a)–(d), đọc được trực tiếp, không dựa trang chép lại Manager từng dùng. Đây là toàn văn do Báo Chính phủ đăng, không nhận là đã đọc bản ký gốc.
+- E — [NĐ 283/2026/NĐ-CP, Công báo](https://congbaocdn.chinhphu.vn/180507251028987904/2026/7/28/470103-1785229247_v1_1785229756_signed.pdf): Điều 7(1), 23(2),(5)(a), 66; trang PDF 5, 26–28, 99. Nguồn cấp 1.
+
+Chưa kiểm được: chưa chứng nhận đầy đủ mọi văn bản sửa đổi đến 05/11/2026. Đã tìm theo số hiệu và nội dung sửa đổi, tìm được hợp nhất Nhà ở 79/2026 và đối chiếu đoạn liên quan; kết quả tìm kiếm không chứng minh tuyệt đối không còn sửa đổi khác. Không kiểm lại 19.17, 19.18, 31.11 hoặc các phần đang treo nhãn ngoài bốn mục của lượt này. Báo cáo XONG nghĩa là xong phạm vi kiểm, không phải sách đã hết lỗi.
+
+TỔNG: CAO=0 VỪA=1 THẤP=0
+TRẠNG THÁI: XONG
+
+## Sửa theo Lần 2 (Claude, chưa được xác nhận độc lập) — 05/11/2026
+- 19.7 (VỪA): thêm căn cứ lương bình quân 6 tháng liền kề theo hợp đồng cho cả hai khoản (Điều 46 khoản 3, Điều 47 khoản 3; đã đọc lớp chữ bản Công báo).
