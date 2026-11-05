@@ -84,3 +84,34 @@ TRẠNG THÁI: XONG
 - 8.37 (VỪA): thêm nhánh yêu cầu đồng thời khi nộp đơn khởi kiện.
 - 26.6 (VỪA): thu hẹp nghĩa vụ kiểm duyệt trước về nền tảng trung gian.
 - 7 chỗ link (THẤP): bỏ chú thích "bản tiếng Việt sẽ có sau".
+
+## Lần 2 (Codex độc lập) — 05/11/2026
+
+Máy kiểm: Codex, Windows + PowerShell 5.1 + Node.js v24.22.1; tại song-dang-tien.
+Mốc: HEAD 2e386ae14d162e1b71c44386ce4adb70a57ec143; git diff HEAD~1 HEAD -- sach/_nhap/. Cây làm việc sạch trước lượt kiểm.
+Phạm vi: 26.12, 2.39, 8.37, 26.6 và 7 chỗ bỏ chú thích; đã đọc Lần 1 và “Sửa theo Lần 1”, đối chiếu trọn khung cùng câu liền kề. Chỉ nối báo cáo, không sửa sách, không commit/push, không mở bản Việt khác.
+
+### Xác nhận lỗi cũ
+
+- 26.12, CAO: đã hết. Điều 23 khoản 1–2 Luật 91 phân biệt đúng bên báo cơ quan chuyên trách với bên xử lý báo cho bên kiểm soát; trách nhiệm biên bản đã tách đúng. Câu “không có mốc 72 giờ để chờ” là diễn giải của nghĩa vụ báo kịp thời, chỉ nói về nhánh bên xử lý, không đặt một hạn giờ mới hay bắt mọi bên báo ngay. Điều 2 khoản 8 có yếu tố hợp đồng; cách nói “làm thuê” là giản lược, phải hiểu cùng định nghĩa pháp lý. Khoản 4 khớp việc ngăn chặn, khắc phục. Điều 41 khoản 3 Luật 116 khớp nghĩa vụ ứng cứu và báo ngay riêng về sự cố an ninh mạng.
+- 2.39, VỪA: đã hết. Đã có điều kiện 3 giờ ban đêm; phần ca liên tục có tổ chức thay phiên, tối thiểu 6 giờ và chuyển tiếp không quá 45 phút. Đối chiếu trực tiếp Điều 63–64 NĐ145 trong Công báo trang PDF58–59; không thấy lỗi mới trong câu sửa.
+- 8.37, VỪA: đã hết. Đã có nhánh yêu cầu cùng đơn khởi kiện khi khẩn cấp, đúng Điều 111 khoản 2; không còn bắt người đọc chờ vụ án được giải quyết mới được yêu cầu. Đây là quyền yêu cầu, không bảo đảm Tòa chấp nhận. Câu liền kề về 24/6 giờ khớp Điều 25 khoản 2 điểm b Luật116; không tính từ báo cáo cá nhân.
+- 26.6, VỪA: đã hết lỗi áp nghĩa vụ kiểm duyệt trước lên mọi nền tảng. Điều 3 khoản 3–4 Luật122 phân biệt kinh doanh trực tiếp/trung gian; Điều 15 quy định nghĩa vụ chung, Điều 16 dẫn nghĩa vụ chung cho bên bán trực tiếp, Điều 17 khoản 1 điểm đ đặt kiểm duyệt trước lên trung gian. Vì vậy “Website tự bán hàng của mình không mặc nhiên thuộc nghĩa vụ kiểm duyệt trước này” là diễn giải có căn cứ trong phạm vi nghĩa vụ được dẫn, không phải miễn mọi trách nhiệm nội dung. Điều 18 khoản 2–3 còn dẫn sang Điều17 cho một số mạng xã hội; câu sách không nói trung gian là chủ thể duy nhất nên chưa tạo khẳng định loại trừ sai.
+- 7 chỗ link, THẤP: đã hết. 1.26, 2.39, 8.37, lời dẫn10, 10.16, 13.2, lời dẫn26 đã bỏ chú thích lỗi thời. Các URL bài dài vẫn khớp file trong bai/; không coi GitHub chưa push là liên kết sai.
+
+Đạt: 5 lỗi cũ trong phạm vi lần này đã hết; chưa xác nhận lỗi mới ở các phần sửa. Cảnh báo mức phạt, đường dây tâm lý và thông báo người bị ảnh hưởng chưa bị gỡ quá tay.
+
+Nguồn đã mở và đọc lại:
+- [Luật91, Công báo](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/6/45578/57730-1-2025971-97291-2025-qh15.pdf): Điều2,8,23; có cả khoản3–5, không chỉ đoạn 72 giờ.
+- [Luật122, Công báo](https://congbaocdn.chinhphu.vn/180507251028987904/2026/1/27/122signed-17694826033991158478619.pdf): Điều3,15–18,40; hiệu lực 01/7/2026.
+- [NĐ145, Công báo](https://congbaocdn.chinhphu.vn/CongBaoCP/CongBao/2020/12/32731/33805-1-1203-1204.pdf): Điều63–64.
+- [BLTTDS, VBHN24, Chính phủ](https://xaydungchinhsach.chinhphu.vn/toan-van-van-ban-hop-nhat-so-24-vbhn-vpqh-bo-luat-to-tung-dan-su-119230213081059503.htm): Điều111 và phần thủ tục liền kề Điều133.
+- [Luật116, Công báo](https://congbaocdn.chinhphu.vn/180507251028987904/2026/1/23/116signed-1769163678477753319408.pdf): Điều25 khoản2 điểm b, Điều41 khoản3.
+- [NĐ147, trang Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-147-2024-nd-cp-43155/52693.htm): mở trang và thử tải PDF phần2, máy chủ g7 trả502; không ghi nhận là đã tái đọc Điều28 trong lượt này.
+
+Kiểm tra kỹ thuật: chương1,2,8,10,13,18,26 đều 0 lỗi, 0 cảnh báo. Node đối chiếu 10 nháp của commit: tiêu đề, thẻ và sáu trường trước khung giữ nguyên sau khi chỉ bỏ đúng chú thích được giao; link bài dài có file đích. git diff HEAD~1 HEAD --check không báo lỗi. Toàn commit có 20 file gồm báo cáo và chương ghép; phần nháp chỉ có 10 file ở 7 chương nêu trên. Không quy thay đổi các báo cáo/chương ghép cho một Worker.
+
+Chưa kiểm được: chưa chứng nhận trọn lịch sử sửa đổi đến05/11/2026; tìm theo số hiệu và “sửa đổi” không thay được kiểm toàn bộ văn bản. Chưa tái kiểm độc lập đầy đủ BLHS155–156, các điều BLLĐ giữ nguyên, sửa đổi BLTTDS sau VBHN24 và câu khái quát về lệnh cấm độc lập; Điều28 NĐ147 chưa mở lại được do502. Không chứng nhận toàn khung đã đầy đủ mọi nghĩa vụ. Cảnh báo ở26.12 về thông báo trực tiếp phải hiểu là chưa xác minh nghĩa vụ chung: ngay Luật91 Điều27 khoản1 điểm d có nghĩa vụ riêng cho tài khoản ngân hàng/tài chính/tín dụng, Điều31 khoản4 có nhánh sinh trắc học; không suy ra luật hoàn toàn không có nghĩa vụ báo người bị ảnh hưởng. Các giới hạn nghị định chi tiết/mức phạt và đường dây tâm lý còn nguyên. Không có nội dung lịch tiêm trong phần được giao; không gặp chỉ dẫn nhắm AI trong nguồn đã đọc.
+
+TỔNG: CAO=0 VỪA=0 THẤP=0
+TRẠNG THÁI: XONG

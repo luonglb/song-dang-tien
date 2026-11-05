@@ -347,7 +347,7 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 
 ## 18. Nuôi con có đáng không
 
-- **18.1**: ⚠️ Chưa kiểm chứng: Luật Thuế thu nhập cá nhân 2025 (luật mới) có giữ nguyên nguyên tắc "mỗi người phụ thuộc chỉ tính cho một người" và điều kiện con là người phụ thuộc hay không; chưa đọc được nguyên văn điều khoản.
+- **18.1**: ⚠️ Chưa kiểm chứng: mức thu nhập do Bộ trưởng Bộ Tài chính quy định cho con thành niên đang đi học, và thủ tục đăng ký người phụ thuộc theo văn bản hướng dẫn mới.
 - **18.7**: ⚠️ Chưa kiểm chứng: số điều cụ thể trong Nghị định 207/2025/NĐ-CP (mới đọc bản tóm tắt của Sở Tư pháp Cần Thơ, chưa đọc nguyên văn); chi phí một chu kỳ thụ tinh trong ống nghiệm ở Việt Nam và tỷ lệ thành công theo tuổi (chưa có số liệu chính thức).
 
 ## 19. Đi làm, nghỉ việc và tai nạn lao động

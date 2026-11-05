@@ -121,3 +121,24 @@ TRẠNG THÁI: XONG
 
 ## Sửa theo Lần 2 (Claude, chưa được xác nhận độc lập) — 05/11/2026
 - 18.1 (VỪA): thêm điều kiện chung "người nộp thuế có trách nhiệm nuôi dưỡng" của Luật 109/2025 Điều 10 khoản 4 (đã đọc ảnh bản ký trang 9).
+
+## Lần 3 (Codex độc lập) — 05/11/2026
+
+Máy kiểm: Codex, Windows + PowerShell5.1 + Node.js v24.22.1; tại song-dang-tien.
+Phạm vi: chỉ18.1; đọc Lần2, “Sửa theo Lần2”, trọn nháp và câu liền kề; đối chiếu HEAD~1 với HEAD2e386ae14d162e1b71c44386ce4adb70a57ec143.
+
+Xác nhận lỗi VỪA Lần2 đã hết: câu hiện tại có điều kiện chung người nộp thuế có trách nhiệm nuôi dưỡng trước danh sách con. Đối chiếu ảnh bản ký trang9, Điều10 khoản4; không áp nhầm điều kiện đang học/thu nhập cho tất cả nhóm. Không thấy tạo lỗi mới trong phần thêm.
+
+Đạt: mức6,2 triệu/tháng, nguyên tắc một người phụ thuộc chỉ giảm trừ cho một người và kỳ tính thuế2026 vẫn khớp Điều10,29. Cảnh báo về ngưỡng thu nhập, thủ tục đăng ký vẫn giữ; không gỡ thêm căn cứ chưa đối chiếu. Phần hỗ trợ sinh con liền kề đã xem lại NĐ168 Điều3,14; không biến hỗ trợ một lần thành trợ cấp hằng năm. Không thêm hoặc suy đoán lịch tiêm.
+
+Nguồn đã mở:
+- [Luật109 bản ký](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/luat109-2025.pdf): tải mới6.797.837byte, SHA256 trùng bản lưu tạm dùng để đọc ảnh trang8,9,15; không dựa ghi chú Claude. Web không trích được chữ bản ký.
+- [Luật109 Công báo](https://congbaocdn.chinhphu.vn/180507251028987904/2026/1/24/109signed-17692403594311667615452.pdf): mở được bản có lớp chữ bổ sung.
+- [NĐ168 Công báo](https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/29/469560-1780019664_v1_1780042572_signed.pdf): đối chiếu phần hỗ trợ và hiệu lực.
+
+Kiểm tra máy: chương18 có7/7 mục, 0 lỗi, 0 cảnh báo. Phần ngoài khung18.1 giống nguyên văn HEAD~1; git diff --check không báo lỗi khoảng trắng. Trong commit đang kiểm,18.1 chỉ thêm điều kiện nuôi dưỡng; chương ghép18 cũng có thay đổi tương ứng. Lượt này chỉ nối hai báo cáo được giao; không sửa sách, không commit/push, không mở bản tiếng Việt khác.
+
+Chưa kiểm được: không chứng nhận đầy đủ lịch sử sửa đổi đến05/11/2026; chưa đối chiếu mới toàn văn hướng dẫn ngưỡng thu nhập và thủ tục đăng ký, toàn Luật Dân số hay mọi chương y tế khác. Kết quả0 lỗi áp dụng lần sửa18.1 được giao, không xóa giới hạn Lần2 hoặc xác nhận toàn nhóm đủ điều kiện xuất bản. Không gặp chỉ dẫn nhắm AI trong nguồn đã đọc.
+
+TỔNG: CAO=0 VỪA=0 THẤP=0
+TRẠNG THÁI: XONG
