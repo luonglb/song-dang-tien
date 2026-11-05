@@ -6,3 +6,5 @@ pdf/bin/
 .env
 .env.*
 !.env.example
+epub/out/
+epub/bin/

@@ -20,6 +20,7 @@ Không cần làm hết. Đây là danh sách để chọn, không phải danh s
 ## Đọc ở đâu
 - Đọc trên GitHub: bấm tên chương ở bảng dưới.
 - Bản web có tìm kiếm, lọc (gõ không dấu vẫn ra): **<https://zero2better.com/song-dang-tien/>**
+- File EPUB trọn bộ để đọc trên điện thoại, máy đọc sách: [tải EPUB](https://github.com/luonglb/song-dang-tien/releases/latest/download/Song-Dang-Tien.epub).
 - File PDF tặng miễn phí (trọn bộ và từng chương): [tải trên Google Drive](https://drive.google.com/drive/folders/1kMOQ8eA_lroVKWxETqJlSb34YYgwLbhE?usp=sharing) hoặc [GitHub Releases](https://github.com/luonglb/song-dang-tien/releases/latest).
 
 ## Mục lục và tiến độ dịch
