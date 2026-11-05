@@ -4,6 +4,7 @@ import {readFileSync, writeFileSync, mkdirSync, readdirSync, statSync} from 'nod
 import {resolve, dirname, basename} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {execFileSync} from 'node:child_process';
+import {BAI,linkBaiNoiBo,locBai,moPhuLuc} from '../cong-cu/phu-luc.mjs';
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const BOOK = resolve(ROOT, '..');
 const OUT = resolve(ROOT, 'out');
@@ -34,7 +35,12 @@ const parts = chapters.map(c => {
       if (chapters.some(x => x.slug === slug)) return `](#chapter-${slug})`;
       return `](https://github.com/luonglb/song-dang-tien/blob/main/${href.replace(/^\.\.\//, '')})`;
     }).replace(/^(# .+)$/m, `$1 {#chapter-${c.slug}}`);
-  return `${md.trim()}\n\n${CUOI_CHUONG}\n`;
+  return `${linkBaiNoiBo(md).trim()}\n\n${CUOI_CHUONG}\n`;
+});
+if (BAI.length !== 9) throw Error('Cần đủ 9 bài.');
+const phuLuc = BAI.map(b => {
+  const raw = run('git', ['-C', BOOK, 'show', `HEAD:bai/${b.slug}.md`]);
+  return `${locBai(raw, b.slug, chapters, s => '#chapter-' + s)}\n\n${CUOI_CHUONG}\n`;
 });
 
 // Ghi công nằm ở trang tiêu đề, là trang Pandoc đặt trước mục lục. Lời nói đầu là chương đầu, sau mục lục.
@@ -65,7 +71,7 @@ writeFileSync(metadata, JSON.stringify({
 }));
 
 const input = resolve(WORK, 'sach.md');
-writeFileSync(input, [loiNoiDau, ...parts].join('\n\n'));
+writeFileSync(input, [loiNoiDau, ...parts, `${moPhuLuc()}\n\n${CUOI_CHUONG}\n`, ...phuLuc].join('\n\n'));
 const bia = resolve(WORK, 'bia.png');
 run(TYPST, ['compile', resolve(ROOT, 'bia.typ'), bia, '--format', 'png', '--ppi', '72', '--font-path', resolve(BOOK, 'pdf/fonts')]);
 const epub = resolve(OUT, 'Song-Dang-Tien.epub');

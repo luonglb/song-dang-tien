@@ -32,7 +32,7 @@
 #set page(paper: "a4", margin: (x: 2cm, top: 2cm, bottom: 2.1cm), header: none,
   footer: context {
     set text(size: 8pt, fill: luma(110))
-    grid(columns: (1fr, auto), link("https://zero2better.com")[Tài liệu miễn phí · zero2better.com], counter(page).display())
+    grid(columns: (1fr, auto), link("https://zero2better.com")[Tốt hơn mỗi ngày - zero2better.com], counter(page).display())
   })
 #align(center + horizon)[
   #text(font: "Be Vietnam Pro", size: 12pt, fill: rgb("398671"))[ZERO2BETTER.COM]

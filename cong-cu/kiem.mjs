@@ -7,6 +7,8 @@
 import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { parseGoc, parseVn, CHUONG, VN_FIELDS, GOC_COMMIT, urls, HAN_RE, read, REPO } from './lib.mjs';
+const SLUG_BAI = new Set(JSON.parse(read(resolve(REPO, 'cong-cu/bai.json'))).map(b => b.slug));
+const linkBaiViet = u => { const m = u.match(/^https:\/\/github\.com\/luonglb\/song-dang-tien\/blob\/main\/bai\/([a-z0-9-]+)\.md$/); return !!m && SLUG_BAI.has(m[1]); };
 
 const args = process.argv.slice(2);
 const json = args.includes('--json');
@@ -82,7 +84,8 @@ function kiemChuong(so) {
     const vu = urls(v.body);
     const thieu = [...gu].filter(u => !vu.has(u));
     // Link bài dài trỏ về bài gốc tiếng Trung trên repo gốc: bản Việt chưa có
-    const thua = [...vu].filter(u => !gu.has(u) && !u.startsWith(`https://github.com/eternity4719/HowToLiveBetter/blob/${GOC_COMMIT}`));
+    // Từ W8: link bài dài trỏ bản Việt trong bai/; slug phải có trong cong-cu/bai.json
+    const thua = [...vu].filter(u => !gu.has(u) && !u.startsWith(`https://github.com/eternity4719/HowToLiveBetter/blob/${GOC_COMMIT}`) && !linkBaiViet(u));
     if ((v.body + v.box).includes('](../docs/')) L(n, 'Link tới ../docs/ (repo này không có docs): trỏ về bài gốc tiếng Trung');
     if (thieu.length) L(n, `Thiếu link gốc: ${thieu.join(' ')}`);
     if (thua.length) L(n, `Link lạ ngoài khung VN (link VN phải nằm trong khung 🇻🇳): ${thua.join(' ')}`);

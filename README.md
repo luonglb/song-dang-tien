@@ -20,8 +20,22 @@ Không cần làm hết. Đây là danh sách để chọn, không phải danh s
 ## Đọc ở đâu
 - Đọc trên GitHub: bấm tên chương ở bảng dưới.
 - Bản web có tìm kiếm, lọc (gõ không dấu vẫn ra): **<https://zero2better.com/song-dang-tien/>**
-- File EPUB trọn bộ để đọc trên điện thoại, máy đọc sách: [tải EPUB](https://github.com/luonglb/song-dang-tien/releases/latest/download/Song-Dang-Tien.epub).
-- File PDF tặng miễn phí (trọn bộ và từng chương): [tải trên Google Drive](https://drive.google.com/drive/folders/1kMOQ8eA_lroVKWxETqJlSb34YYgwLbhE?usp=sharing) hoặc [GitHub Releases](https://github.com/luonglb/song-dang-tien/releases/latest).
+- File EPUB trọn bộ (34 chương và Phụ lục 9 bài dài) để đọc trên điện thoại, máy đọc sách: [tải EPUB](https://github.com/luonglb/song-dang-tien/releases/latest/download/Song-Dang-Tien.epub).
+- File PDF 9 bài dài: [tải PDF](https://github.com/luonglb/song-dang-tien/releases/latest/download/Song-Dang-Tien-bai-dai.pdf).
+- File PDF tặng miễn phí (trọn bộ có Phụ lục 9 bài dài, và từng chương): [tải trên Google Drive](https://drive.google.com/drive/folders/1kMOQ8eA_lroVKWxETqJlSb34YYgwLbhE?usp=sharing) hoặc [GitHub Releases](https://github.com/luonglb/song-dang-tien/releases/latest).
+
+## 9 bài dài
+Chín bài dài của bản gốc, dịch từ tiếng Trung, có khung "Ở Việt Nam". Có trên GitHub, trong PDF riêng, Phụ lục của PDF trọn bộ và EPUB. Trên web chưa có.
+
+- [Bị sa thải thì làm gì trước](bai/bi-sa-thai-lam-gi-truoc.md)
+- [Trước khi đổi việc, đổi thành phố](bai/truoc-khi-doi-viec-doi-thanh-pho.md)
+- [Làm nền tảng cần giấy phép gì](bai/lam-nen-tang-can-giay-phep-gi.md)
+- [Vừa được chẩn đoán bệnh mạn tính](bai/moi-chan-doan-benh-man-tinh.md)
+- [Việc cần làm trước và sau khi sinh con](bai/viec-can-lam-truoc-sau-khi-sinh.md)
+- [Danh sách đồ khẩn cấp trong nhà](bai/do-khan-cap-trong-nha.md)
+- [Đồng hồ sinh học và ca đêm](bai/dong-ho-sinh-hoc-va-ca-dem.md)
+- [Kết hôn có đáng không](bai/ket-hon-co-dang-khong.md)
+- [Gặp người lạ gặp nạn có nên dừng lại](bai/gap-nguoi-la-gap-nan-co-nen-dung.md)
 
 ## Mục lục và tiến độ dịch
 <!-- tien-do:bat-dau -->

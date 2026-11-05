@@ -5,6 +5,7 @@ import {resolve, dirname, basename} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {execFileSync} from 'node:child_process';
 import {createHash} from 'node:crypto';
+import {BAI,linkBaiNoiBo,locBai,moPhuLuc} from '../cong-cu/phu-luc.mjs';
 const ROOT=dirname(fileURLToPath(import.meta.url));
 const BOOK=resolve(ROOT,'..');
 const OUT=resolve(ROOT,'out');
@@ -35,20 +36,29 @@ const snapshots=chapters.map(c=>{
   }).replace(/^(# .+)$/m,`$1 {#chapter-${c.slug}}`);
  return {...c,md,sha256:createHash('sha256').update(raw).digest('hex'),items:(raw.match(/^### /gm)||[]).length};
 });
+if(BAI.length!==9) throw Error('Cần đủ 9 bài.');
+const web=slug=>`https://zero2better.com/song-dang-tien/${slug}/`;
+const baiGoc=BAI.map(b=>{
+ const raw=readFileSync(resolve(BOOK,'bai',b.slug+'.md'),'utf8');
+ return {...b,raw,sha256:createHash('sha256').update(raw).digest('hex')};
+});
 const results=[];
-function build(name,selected,full) {
- let md=selected.map(c=>c.md).join('\n\n');
- // Individual PDFs cannot resolve references to chapters outside the selection.
- if(!full) md=md.replace(/\]\(#chapter-([^)]+)\)/g,(_,slug)=>slug===selected[0].slug?`](#chapter-${slug})`:`](https://zero2better.com/song-dang-tien/${slug}/)`);
+function build(name,mdIn,subtitle,tocdepth) {
  const input=resolve(WORK,name+'.md'); const typ=resolve(WORK,name+'.typ');
- writeFileSync(input,md);
- run(PANDOC,['--from=gfm+attributes','--to=typst','--wrap=none',`--template=${resolve(ROOT,'template.typ')}`,'-V',`subtitle=${full?'Trọn bộ 34 chương':selected[0].ten}`,'-V',`tocdepth=${full?1:3}`,'-V',`builddate=${stamp}`,'-o',typ,input]);
+ writeFileSync(input,mdIn);
+ run(PANDOC,['--from=gfm+attributes','--to=typst','--wrap=none',`--template=${resolve(ROOT,'template.typ')}`,'-V',`subtitle=${subtitle}`,'-V',`tocdepth=${tocdepth}`,'-V',`builddate=${stamp}`,'-o',typ,input]);
  const pdf=resolve(OUT,name+'.pdf');
  run(TYPST,['compile',typ,pdf,'--root',BOOK,'--font-path',resolve(ROOT,'fonts')]);
  results.push({file:basename(pdf),bytes:statSync(pdf).size});
  console.log(`Đã dựng ${basename(pdf)}`);
 }
-build('Song-Dang-Tien-tron-bo',snapshots,true);
-for(const c of snapshots) build(c.slug,[c],false);
-writeFileSync(resolve(OUT,'build-manifest.json'),JSON.stringify({date:stamp,typst:run(TYPST,['--version']).trim(),pandoc:run(PANDOC,['--version']).split('\n')[0],sourceCommit:'e2605d3e',chapters:snapshots.map(({md,...c})=>c),files:results},null,2));
-console.log(`Xong ${results.length} PDF; ${snapshots.reduce((n,c)=>n+c.items,0)} mục.`);
+// Trọn bộ: 34 chương rồi Phụ lục, mọi link chương và bài đều nhảy nội bộ.
+build('Song-Dang-Tien-tron-bo',
+ [...snapshots.map(c=>linkBaiNoiBo(c.md)),moPhuLuc(),...baiGoc.map(b=>locBai(b.raw,b.slug,chapters,s=>'#chapter-'+s))].join('\n\n'),
+ 'Trọn bộ 34 chương và 9 bài dài',1);
+// PDF 9 bài: link giữa các bài nhảy nội bộ, link tới chương mở trên web vì file này không chứa chương.
+build('Song-Dang-Tien-bai-dai',baiGoc.map(b=>locBai(b.raw,b.slug,chapters,web)).join('\n\n'),'9 bài dài',2);
+// PDF chương lẻ không chứa chương khác và Phụ lục: giữ URL GitHub của bài, chương khác mở trên web.
+for(const c of snapshots) build(c.slug,c.md.replace(/\]\(#chapter-([^)]+)\)/g,(_,slug)=>slug===c.slug?`](#chapter-${slug})`:`](${web(slug)})`),c.ten,3);
+writeFileSync(resolve(OUT,'build-manifest.json'),JSON.stringify({date:stamp,typst:run(TYPST,['--version']).trim(),pandoc:run(PANDOC,['--version']).split('\n')[0],sourceCommit:'e2605d3e',chapters:snapshots.map(({md,...c})=>c),bai:baiGoc.map(({raw,...b})=>b),files:results},null,2));
+console.log(`Xong ${results.length} PDF; ${snapshots.reduce((n,c)=>n+c.items,0)} mục; ${baiGoc.length} bài.`);

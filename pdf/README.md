@@ -6,7 +6,7 @@ node .\song-dang-tien\pdf\build.mjs
 python .\song-dang-tien\pdf\verify.py
 ```
 
-Lệnh đầu đọc đủ 34 chương từ `sach/`, loại comment HTML, chuyển Markdown bằng Pandoc rồi biên dịch Typst. Đầu ra ở `out/`: bản trọn bộ và 34 chương, kèm bản kê nguồn SHA-256 trong `build-manifest.json`. Lệnh sau kiểm tra liên kết, số chương, comment, font và tạo ảnh xem trước cùng `verification.json`.
+Lệnh đầu đọc đủ 34 chương từ `sach/` và 9 bài từ `bai/`, loại comment HTML, chuyển Markdown bằng Pandoc rồi biên dịch Typst. Đầu ra ở `out/`: bản trọn bộ (có Phụ lục 9 bài sau chương 34), `Song-Dang-Tien-bai-dai.pdf` và 34 chương, kèm bản kê nguồn SHA-256 trong `build-manifest.json`. Lệnh sau kiểm tra liên kết, số chương, comment, font và tạo ảnh xem trước cùng `verification.json`.
 
 Typst 0.15.1 và Pandoc 3.13 là bản Windows x86_64 portable nằm trong `bin/`. Không cài hệ thống hoặc sửa PATH. Có thể chỉ định đường dẫn khác qua biến `TYPST`, `PANDOC`. Thư viện Python kiểm tra nằm riêng trong `bin/python-libs/`.
 

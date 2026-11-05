@@ -5,7 +5,7 @@ node .\song-dang-tien\epub\build.mjs
 python .\song-dang-tien\epub\verify.py
 ```
 
-`build.mjs` đọc 34 chương từ `sach/` ở commit hiện tại (HEAD), nên phải commit trước khi dựng. Đầu ra: `epub/out/Song-Dang-Tien.epub`. `verify.py` kiểm đủ chương và mục, XHTML hợp lệ, link nội bộ, metadata.
+`build.mjs` đọc 34 chương từ `sach/` và 9 bài từ `bai/` ở commit hiện tại (HEAD), Phụ lục đứng sau chương 34, nên phải commit trước khi dựng. Đầu ra: `epub/out/Song-Dang-Tien.epub`. `verify.py` kiểm đủ chương và mục, XHTML hợp lệ, link nội bộ, metadata.
 
 Công cụ: Typst và Pandoc 3.13 portable trong `pdf/bin/` (xem `pdf/README.md`). EPUBCheck và Java portable để trong `epub/bin/`, không cài hệ thống, không commit.
 

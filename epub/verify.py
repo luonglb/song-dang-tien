@@ -56,6 +56,22 @@ for href in spine:
     nhan = [e for e in doc[n].iter(XH + 'span') if e.get('class') == 'nhan']
     chuong.append(dict(file=n, ten=h1[0] if h1 else '', muc=h3, cuoi=len(cuoi), nhan=len(nhan)))
 
+# Phụ lục đứng sau chương 34: trang mở + đúng 9 bài theo thứ tự cong-cu/bai.json.
+BAI = json.loads((ROOT.parent / 'cong-cu' / 'bai.json').read_text('utf-8'))
+ten_trang = [c['ten'] for c in chuong]
+vi_tri_pl = next((i for i, t in enumerate(ten_trang) if t.startswith('Phụ lục')), -1)
+if vi_tri_pl < 0:
+    loi.append('Thiếu trang mở Phụ lục')
+sau_pl = chuong[vi_tri_pl + 1:] if vi_tri_pl >= 0 else []
+if vi_tri_pl >= 0 and not re.match(r'^34\.', ten_trang[vi_tri_pl - 1]):
+    loi.append('Phụ lục không đứng ngay sau chương 34')
+if len(sau_pl) != 9:
+    loi.append(f'Phụ lục có {len(sau_pl)} bài, cần 9')
+for b, c in zip(BAI, sau_pl):
+    if 'bai-' + b['slug'] not in ids[c['file']]:
+        loi.append(f"{c['file']}: thiếu neo bai-{b['slug']}")
+    if c['cuoi'] != 1:
+        loi.append(f"{c['file']}: {c['cuoi']} dòng cuối bài")
 so_chuong = [c for c in chuong if re.match(r'^\d+\.', c['ten'])]
 if [c['ten'].split('.')[0] for c in so_chuong] != [str(i) for i in range(1, 35)]:
     loi.append('Sai thứ tự hoặc thiếu chương 1 đến 34')
@@ -75,6 +91,10 @@ for n, s in van_ban.items():
         loi.append(f'Còn khoảng trắng sau nhãn: {n}')
     if '../docs/' in s:
         loi.append(f'Còn link ../docs/: {n}')
+    if '/blob/main/bai/' in s:
+        loi.append(f'Link bài còn ra GitHub: {n}')
+    if 'HowToLiveBetter/blob/' in s and '/docs/' in s:
+        loi.append(f'Còn link bài bản Trung: {n}')
 
 tacgia = [e.text for e in goc.iter(DC + 'creator')]
 vitri_nav = next(i for i, h in enumerate(spine) if 'nav' in h)
@@ -92,7 +112,7 @@ quyen = [e.text for e in goc.iter(DC + 'rights')]
 if not quyen or 'CC BY 4.0' not in quyen[0]:
     loi.append(f'Sai giấy phép: {quyen}')
 
-print(json.dumps(dict(trang_xhtml=len(trang), chuong=len(so_chuong), muc=tong_muc, nhan=tong_nhan,
+print(json.dumps(dict(trang_xhtml=len(trang), chuong=len(so_chuong), muc=tong_muc, bai=len(sau_pl), nhan=tong_nhan,
                       link_noi_bo=so_link, link_ngoai=so_ngoai, spine_dau=spine[:4], tac_gia=tacgia,
                       dung_luong_mb=round(EPUB.stat().st_size / 1048576, 2), loi=len(loi)), ensure_ascii=False))
 for l in loi[:40]:
