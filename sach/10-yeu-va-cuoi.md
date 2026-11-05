@@ -3,7 +3,7 @@
 
 # 10. Yêu và cưới có đáng không
 
-Chương này tách câu hỏi "cưới có đáng không" thành mấy khoản tính riêng: tiền, thời gian, sức khoẻ, rủi ro pháp lý và chất lượng mối quan hệ. Mỗi khoản chỉ dùng những con số tra được nguồn, và nguồn chỉ gồm thống kê chính thức hoặc phân tích gộp (gom số liệu của nhiều nghiên cứu lại tính lại một lần). Ở đây không phán xét đạo đức, cũng không kết luận thay bạn. Các khoản sức khoẻ tính theo nguy cơ tử vong, các khoản thời gian tính theo số phút mỗi ngày, các khoản pháp luật tính theo luật viết thế nào. Ba cách tính này không quy đổi qua lại. Cách tách khoản, danh sách để tự điền và những hiểu lầm hay gặp xem [bài dài: kết hôn có đáng không](https://github.com/luonglb/song-dang-tien/blob/main/bai/ket-hon-co-dang-khong.md) (bài gốc tiếng Trung, bản tiếng Việt sẽ có sau).
+Chương này tách câu hỏi "cưới có đáng không" thành mấy khoản tính riêng: tiền, thời gian, sức khoẻ, rủi ro pháp lý và chất lượng mối quan hệ. Mỗi khoản chỉ dùng những con số tra được nguồn, và nguồn chỉ gồm thống kê chính thức hoặc phân tích gộp (gom số liệu của nhiều nghiên cứu lại tính lại một lần). Ở đây không phán xét đạo đức, cũng không kết luận thay bạn. Các khoản sức khoẻ tính theo nguy cơ tử vong, các khoản thời gian tính theo số phút mỗi ngày, các khoản pháp luật tính theo luật viết thế nào. Ba cách tính này không quy đổi qua lại. Cách tách khoản, danh sách để tự điền và những hiểu lầm hay gặp xem [bài dài: kết hôn có đáng không](https://github.com/luonglb/song-dang-tien/blob/main/bai/ket-hon-co-dang-khong.md).
 
 Các mục trong chương này chia theo chủ đề dưới đây, số trong ngoặc là số mục.
 
@@ -218,7 +218,7 @@ Các mục trong chương này chia theo chủ đề dưới đây, số trong n
 - **Lợi ích:** Lợi ích của người lớn là thật. Nhưng nó không tự chuyển thành lợi ích sức khoẻ của bạn (mục 8) hay chất lượng mối quan hệ (mục 4, mối quan hệ có tốt không thì xem cảm nhận của chính mình). Còn khoản thời gian (mục 9), khoản tiền (mục 10 đến 12) và chi phí rút lui (mục 15) đều do người trong cuộc gánh hết. Ghi sổ tách riêng rồi, "cưới cho xong nhiệm vụ" đáng hay không đáng, tự mình sẽ thấy
 - **Mức bằng chứng:** C
 - **Nguồn:** Kinh nghiệm của tác giả (gốc), lời khuyên về phương pháp; phần số liệu xem các mục trước trong chương này
-- **Ghi chú:** Cột của người lớn cũng có thể tính thành một khoản rất nặng, cân nhắc thế nào là do bạn quyết. Danh sách để tự điền xem [bài dài: kết hôn có đáng không](https://github.com/luonglb/song-dang-tien/blob/main/bai/ket-hon-co-dang-khong.md) (bài gốc tiếng Trung, bản tiếng Việt sẽ có sau)
+- **Ghi chú:** Cột của người lớn cũng có thể tính thành một khoản rất nặng, cân nhắc thế nào là do bạn quyết. Danh sách để tự điền xem [bài dài: kết hôn có đáng không](https://github.com/luonglb/song-dang-tien/blob/main/bai/ket-hon-co-dang-khong.md)
 
 ### 17. Coi chất lượng mối quan hệ là một khoản sức khoẻ: cãi nhau thì bàn vào sự việc, đừng công kích cá nhân, đừng chửi, đừng mỉa mai
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=小 口径=死亡率 -->

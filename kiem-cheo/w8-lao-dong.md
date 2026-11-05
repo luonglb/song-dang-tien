@@ -94,3 +94,23 @@ TRẠNG THÁI: XONG
 
 ## Sửa theo Lần 2 (Claude, chưa được xác nhận độc lập) — 05/11/2026
 - 19.7 (VỪA): thêm căn cứ lương bình quân 6 tháng liền kề theo hợp đồng cho cả hai khoản (Điều 46 khoản 3, Điều 47 khoản 3; đã đọc lớp chữ bản Công báo).
+
+## Lần 3 (Codex độc lập) — 05/11/2026
+
+Máy kiểm: Codex · Windows/PowerShell 5.1 · Node.js v24.22.1.
+Phạm vi: chỉ 19.7; đọc Lần2 và “Sửa theo Lần2”, toàn bộ nháp, khung và câu liền kề; git diff HEAD~1 HEAD.
+
+Xác nhận lỗi VỪA Lần2 đã hết: cả trợ cấp thôi việc và mất việc đã nêu bình quân sáu tháng liền kề theo hợp đồng trước khi thôi/mất việc. Đối chiếu trực tiếp Điều46(3),47(3) [A], trang PDF20–21. Không thấy lỗi mới trong hai câu sửa.
+
+Đạt: phần điều kiện 12 tháng, phép trừ thời gian và mức tối thiểu; cảnh báo khó chứng minh khi ký tự nguyện; báo trước và ngoại lệ nghỉ ngay; điều kiện thất nghiệp ở câu liền kề. Đã mở lại Điều34–35,40–41,46–47 [A] và Điều38 [B]. Không xác nhận lại các mục khác trong báo cáo cũ.
+
+Nguồn đã mở:
+- [A — Bộ luật Lao động hợp nhất, Công báo2026](https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf): đọc lớp chữ các điều trên, đặc biệt khoản3 Điều46–47. Hợp nhất phản ánh các luật71/2025,113/2025,124/2025.
+- [B — Toàn văn Luật Việc làm, Báo Chính phủ](https://xaydungchinhsach.chinhphu.vn/toan-van-luat-viec-lam-119250711173403835.htm): Điều38(1)(a)–(d). Các ví dụ có chữ “như”, không coi là danh sách đầy đủ.
+
+Kiểm tra máy: node cong-cu/kiem.mjs 19: 24/24 mục, 0 lỗi, 0 cảnh báo. git diff HEAD~1 HEAD --check giới hạn năm nháp: không lỗi. So sánh Node phần trước khung Việt Nam với HEAD~1 để kiểm tiêu đề và sáu trường; đã xác nhận 5/5 giống nguyên văn. --stat toàn commit có năm nháp, ba chương ghép18/19/20 và hai báo cáo, do các nhóm làm chung; diff riêng19.7 chỉ thêm căn cứ lương trong hai dòng.
+
+Chưa kiểm được: không bảo đảm đã loại trừ mọi sửa đổi pháp luật đến 05/11/2026; không kiểm lại mục ngoài19.7, thủ tục chi tiết và toàn bộ nguyên tác. Không mở bản tiếng Việt khác, không gặp chỉ dẫn nhắm AI trong nguồn đã đọc. Chỉ ghi nối báo cáo, không sửa sách, không commit/push.
+
+TỔNG: CAO=0 VỪA=0 THẤP=0
+TRẠNG THÁI: XONG

@@ -85,3 +85,39 @@ TRẠNG THÁI: XONG
 - 18.3 (VỪA): thêm "bị Toà án tuyên bố" theo Điều 26 khoản 2 điểm i; đổi link sang bản ký.
 - 20.2 (VỪA): thêm "có tổ chức hoạt động tiêm chủng", khám sàng lọc Điều 12 khoản 2 điểm a, b.
 - 20.2, 20.3 (THẤP): đổi nguồn sang bản ký, bỏ câu "theo bản đăng lại".
+
+## Lần 2 (Codex độc lập) — 05/11/2026
+
+Máy kiểm: Codex · Windows/PowerShell 5.1 · Node.js v24.22.1.
+Phạm vi: 18.1, 18.3, 20.2, 20.3; đọc Lần 1, “Sửa theo Lần 1”, trọn bốn nháp và câu liền kề; đối chiếu git diff HEAD~1 HEAD theo brief lần 3.
+
+### Xác nhận các lỗi cũ
+
+- 18.1, CAO cũ: đã hết việc dùng luật thuế cũ làm căn cứ hiện hành. Điều 10, Điều 29 Luật109 bản ký trang 8–9, 14–15 khớp mức 6,2 triệu, nguyên tắc một người phụ thuộc/một người nộp thuế và kỳ tính thuế 2026. Gỡ cảnh báo nguyên tắc này có căn cứ; vẫn giữ giới hạn về mức thu nhập và thủ tục. Có thiếu sót mới ở dưới.
+- 18.3, VỪA cũ: đã hết; điều kiện Tòa án tuyên bố đã bổ sung đúng. Đọc lại Điều137 trong Bộ luật Lao động hợp nhất trang PDF53 và NĐ283 bản ký trang32, không chỉ tin ghi chú sửa. Các câu về làm đêm, đồng ý khi nuôi con, 60 phút và chế tài khớp điều khoản đã đối chiếu.
+- 20.2, VỪA cũ: đã hết; có điều kiện cơ sở tổ chức hoạt động tiêm chủng ở đầu Điều26, cùng điều kiện có phòng sinh ở khoản1. Đọc Điều12(2)(a),(b) trang6 và Điều26 trang18: câu “không có nghĩa là bỏ qua đánh giá” là diễn giải hợp lý về sàng lọc/đúng chỉ định, không phải nguyên văn điều luật; không thấy tạo ngoại lệ tùy ý hoặc chỉ dẫn bỏ tiêm.
+- 20.2/20.3, THẤP cũ: đã hết; đã chuyển sang bản ký TT13 trên trang bệnh viện. Tải mới thành công 2.469.280 byte, SHA-256 trùng bản lưu tạm; nhìn trang1,6,18,19 và đọc lớp chữ trang2–4. Luật109 và NĐ283 cũng tải lại, so khớp SHA-256 trước khi đọc ảnh.
+
+### Phát hiện bổ sung
+
+- [VỪA] 18.1 · Câu bắt đầu “Con là người phụ thuộc gồm” liệt kê nhóm con nhưng thiếu điều kiện chung của đầu Điều10 khoản4: người nộp thuế có trách nhiệm nuôi dưỡng. Bản ký trang9 đặt điều kiện này trước cả điểm a và b. Đề xuất thêm “Con mà người nộp thuế có trách nhiệm nuôi dưỡng...” trước danh sách; giữ riêng điều kiện thu nhập của con thành niên đang học. Đây là thiếu điều kiện trong phần mới, không kết luận mức 6,2 triệu hoặc toàn bộ danh sách sai. [Luật109 bản ký](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/luat109-2025.pdf).
+
+Đạt: 18.3, 20.2, 20.3 trong phạm vi tái kiểm; lỗi CAO cũ của 18.1 đã hết. Danh sách con ở 18.1 phân biệt được nhóm chưa thành niên, mất năng lực/khuyết tật/không có khả năng lao động với con thành niên đang học có điều kiện thu nhập; không áp điều kiện đang học cho mọi nhóm. Thiếu điều kiện chung đã nêu riêng, không bỏ qua vì ghi chú Worker xác nhận.
+
+Nguồn đã mở:
+1. [Luật109 bản ký](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/luat109-2025.pdf): ảnh trang8–9,14–15.
+2. [TT13 bản ký](https://bvdkbaclieu.gov.vn/upload/1000079/20260613/760_Thong-tu-13-2026-TT-BYT_92335354fb.pdf): trang1–4,6,18–19; Điều3,5–6,12,26–28. Công cụ web timeout; tải trực tiếp Python thành công. Không suy lịch tháng tuổi/tiêm bù từ danh mục.
+3. [NĐ283 bản ký](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/283-ndcp.signed.pdf): trang31–32; [Bộ luật Lao động hợp nhất](https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf): Điều137.
+4. [NĐ168 Công báo](https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/29/469560-1780019664_v1_1780042572_signed.pdf): Điều3(1),14; phần hỗ trợ sinh con liền kề không thấy lỗi mới.
+5. [Luật Phòng bệnh114 bản ký](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/luat114-2025.pdf): Điều22–23,45; các câu ngân sách và bồi thường trong chương trình khớp.
+6. [Luật09/2026 trong Công báo số286](https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/cong-bao-so-286-639149513405530832-ngay-27-05-47205_1779843218_signed.pdf): trang45–46, Điều1 sửa khoản1 Điều7, không sửa Điều10. Đã tìm theo số hiệu kèm “sửa đổi”; không dùng kết quả tìm kiếm để bảo đảm tuyệt đối không còn văn bản mới.
+
+Kiểm tra máy: chương18 7/7, chương20 17/17, đều 0 lỗi, 0 cảnh báo. Kiểm tra diff không có lỗi khoảng trắng. Năm nháp được kiểm phần trước khung Việt Nam bằng Node so với HEAD~1; đã xác nhận 5/5 giống nguyên văn. --stat toàn commit có thêm báo cáo và chương ghép18/19/20, không chỉ nhóm y tế; không gán thay đổi nhóm khác cho Worker. Không có sửa sách do lượt kiểm này.
+
+Chưa kiểm được: chưa thẩm tra toàn bộ lịch sử sửa đổi đến 05/11/2026; chưa kiểm văn bản hướng dẫn mức thu nhập/thủ tục người phụ thuộc, HBIG/chi trả, lịch tiêm tháng tuổi/tiêm bù và kiểm tra sổ đầu cấp. Giữ các cảnh báo này; không chứng nhận toàn sách hoặc toàn bộ y khoa nguyên tác. Không mở bản tiếng Việt khác; không gặp chỉ dẫn nhắm AI trong phần nguồn đã đọc. Chỉ ghi nối báo cáo được giao, không commit/push.
+
+TỔNG: CAO=0 VỪA=1 THẤP=0
+TRẠNG THÁI: XONG
+
+## Sửa theo Lần 2 (Claude, chưa được xác nhận độc lập) — 05/11/2026
+- 18.1 (VỪA): thêm điều kiện chung "người nộp thuế có trách nhiệm nuôi dưỡng" của Luật 109/2025 Điều 10 khoản 4 (đã đọc ảnh bản ký trang 9).
