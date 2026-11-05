@@ -46,7 +46,9 @@ assert all(0 <= l['page'] < len(doc) for l in toc)
 # Link trong sách tới bài dài phải là link nội bộ, không còn trỏ GitHub hay bản Trung.
 tat_ca = [l.get('uri', '') for p in doc for l in p.get_links() if l.get('uri')]
 assert not [u for u in tat_ca if '/blob/main/bai/' in u], 'tron-bo con link bai ra GitHub'
-assert not [u for u in tat_ca if 'HowToLiveBetter/blob/' in u and '/docs/' in u], 'tron-bo con link bai ban Trung'
+# Riêng hồ sơ kiểm chứng của bản gốc (docs/核实记录/) không có bản dịch nên vẫn trỏ về bản Trung.
+HO_SO = '/docs/%E6%A0%B8%E5%AE%9E%E8%AE%B0%E5%BD%95/'
+assert not [u for u in tat_ca if 'HowToLiveBetter/blob/' in u and '/docs/' in u and HO_SO not in u], 'tron-bo con link bai ban Trung'
 dai = fitz.open(out / 'Song-Dang-Tien-bai-dai.pdf')
 assert len([r for r in dai.get_toc() if r[0] == 1]) == 9
 assert not [l for p in dai for l in p.get_links() if '/blob/main/bai/' in l.get('uri', '')]

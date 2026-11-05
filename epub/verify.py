@@ -93,7 +93,8 @@ for n, s in van_ban.items():
         loi.append(f'Còn link ../docs/: {n}')
     if '/blob/main/bai/' in s:
         loi.append(f'Link bài còn ra GitHub: {n}')
-    if 'HowToLiveBetter/blob/' in s and '/docs/' in s:
+    # Riêng hồ sơ kiểm chứng của bản gốc (docs/核实记录/) không có bản dịch nên vẫn trỏ về bản Trung.
+    if re.search(r'HowToLiveBetter/blob/[^"]*/docs/(?!%E6%A0%B8%E5%AE%9E%E8%AE%B0%E5%BD%95/)', s):
         loi.append(f'Còn link bài bản Trung: {n}')
 
 tacgia = [e.text for e in goc.iter(DC + 'creator')]
