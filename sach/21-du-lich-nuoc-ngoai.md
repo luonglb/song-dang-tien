@@ -94,9 +94,9 @@ Chương này tính tiền và tự do thân thể, có vài mục còn liên qu
 
 > **🇻🇳 Ở Việt Nam**
 > - Xuất cảnh, nhập cảnh qua cửa khẩu quốc tế của Việt Nam bằng hộ chiếu mà mang **trên 5.000 USD** (hoặc ngoại tệ khác tương đương) hoặc **trên 15.000.000 đồng** tiền mặt thì phải khai báo hải quan cửa khẩu. Mức này không áp dụng với séc du lịch, thẻ ngân hàng, sổ tiết kiệm, giấy tờ có giá (Thông tư 15/2011/TT-NHNN, Điều 2).
-> - Xuất cảnh mang vượt mức trên: nếu không vượt số tiền đã khai khi nhập cảnh lần gần nhất thì chỉ cần xuất trình tờ khai nhập cảnh có xác nhận của hải quan cửa khẩu (Điều 3 khoản 2); trường hợp còn lại phải xuất trình giấy xác nhận của tổ chức tín dụng được phép hoặc văn bản chấp thuận của Ngân hàng Nhà nước (Điều 3 khoản 1).
+> - Xuất cảnh mang vượt mức trên: nếu không vượt số tiền đã khai khi nhập cảnh lần gần nhất thì chỉ cần xuất trình tờ khai nhập cảnh có xác nhận của hải quan cửa khẩu, và tờ khai này chỉ có giá trị cho lần xuất cảnh tiếp theo trong 12 tháng kể từ ngày ghi trên tờ khai (Điều 3 khoản 2); trường hợp còn lại phải xuất trình giấy xác nhận của tổ chức tín dụng được phép hoặc văn bản chấp thuận của Ngân hàng Nhà nước (Điều 3 khoản 1).
 > - ⚠️ Chưa kiểm chứng: Việt Nam có hạn mức chung mỗi năm cho việc rút tiền mặt ở nước ngoài bằng thẻ như Trung Quốc hay không. Hỏi ngân hàng phát hành thẻ về hạn mức rút mỗi ngày và phí trước khi đi.
-> *Nguồn VN:* [Thông tư 15/2011/TT-NHNN, Điều 2, 3 (caselaw.vn, ghi "Đang có hiệu lực")](https://caselaw.vn/van-ban-phap-luat/267691-thong-tu-15-2011-tt-nhnn-quy-dinh-viec-mang-ngoai-te-tien-mat-dong-viet-nam-tien-mat-cua-ca-nhan-khi-xuat-nhap-canh-do-ngan-hang-nha-nuoc-viet-nam-ban-hanh) · *Kiểm chứng ngày 03/11/2026*
+> *Nguồn VN:* [Thông tư 15/2011/TT-NHNN, Điều 2, 3 (caselaw.vn, ghi "Đang có hiệu lực")](https://caselaw.vn/van-ban-phap-luat/267691-thong-tu-15-2011-tt-nhnn-quy-dinh-viec-mang-ngoai-te-tien-mat-dong-viet-nam-tien-mat-cua-ca-nhan-khi-xuat-nhap-canh-do-ngan-hang-nha-nuoc-viet-nam-ban-hanh) · *Kiểm chứng ngày 05/11/2026*
 
 ### 7. Chụp ảnh hộ chiếu, visa, thẻ căn cước rồi lưu một bản trên đám mây; mất thì báo cảnh sát trước rồi mới xin cấp lại giấy thông hành
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->

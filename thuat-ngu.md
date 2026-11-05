@@ -98,6 +98,7 @@ Dùng thống nhất cho mọi chương. Thêm từ mới → thêm dòng vào �
 | 典型案例 | án lệ điển hình (Trung Quốc) |
 | 见义勇为 | hành động dũng cảm vì nghĩa (Trung Quốc) |
 | 社保 / 医保 / 公积金 | bảo hiểm xã hội (Trung Quốc) / bảo hiểm y tế (Trung Quốc) / quỹ dự phòng nhà ở (Trung Quốc) |
+| 残联 / 残疾人联合会 | Liên đoàn Người khuyết tật (Trung Quốc), đừng dịch là "Hội Người khuyết tật" vì dễ lẫn tổ chức Việt Nam |
 | 户口 | hộ khẩu (Trung Quốc) |
 | 劳动仲裁 | trọng tài lao động (Trung Quốc) |
 | 工伤 | tai nạn lao động |

@@ -51,6 +51,7 @@ function kiemChuong(so) {
   if (vn.items.length !== goc.items.length) L(0, `Số mục ${vn.items.length} ≠ gốc ${goc.items.length}`);
   // phần lời dẫn chương: không còn chữ Hán ngoài ngoặc
   const headHan = hanLoi(vn.head.filter(l => !l.startsWith('<!--')).join('\n'));
+  if (vn.head.some(l => l.includes('](../docs/'))) L(0, 'Lời dẫn có link tới ../docs/ (repo này không có docs): trỏ về bài gốc tiếng Trung');
   if (headHan.length) L(0, `Lời dẫn còn chữ Hán: ${headHan.slice(0, 5).join(' | ')}`);
   r.chuaKiemChung += (vn.md.match(/Chưa kiểm chứng/g) || []).length;
 
@@ -80,7 +81,9 @@ function kiemChuong(so) {
     const gu = urls(Object.values(g.fields).join(' '));
     const vu = urls(v.body);
     const thieu = [...gu].filter(u => !vu.has(u));
-    const thua = [...vu].filter(u => !gu.has(u));
+    // Link bài dài trỏ về bài gốc tiếng Trung trên repo gốc: bản Việt chưa có
+    const thua = [...vu].filter(u => !gu.has(u) && !u.startsWith(`https://github.com/eternity4719/HowToLiveBetter/blob/${GOC_COMMIT}`));
+    if ((v.body + v.box).includes('](../docs/')) L(n, 'Link tới ../docs/ (repo này không có docs): trỏ về bài gốc tiếng Trung');
     if (thieu.length) L(n, `Thiếu link gốc: ${thieu.join(' ')}`);
     if (thua.length) L(n, `Link lạ ngoài khung VN (link VN phải nằm trong khung 🇻🇳): ${thua.join(' ')}`);
     // chữ Hán ngoài Nguồn
