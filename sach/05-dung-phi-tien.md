@@ -221,7 +221,8 @@ Các mục trong chương này chia theo chủ đề dưới đây, số trong n
 > **🇻🇳 Ở Việt Nam**
 > - Bảo hiểm y tế Việt Nam không có tài khoản cá nhân tích tiền như vậy, nên không có thủ tục "liên kết gia đình" tương ứng.
 > - Thứ gần nhất để tiết kiệm cho cả nhà là đóng bảo hiểm y tế theo hộ gia đình: người thứ hai trở đi được giảm mức đóng.
-> - ⚠️ Chưa kiểm chứng: mức giảm đóng bảo hiểm y tế hộ gia đình cho người thứ hai, thứ ba… theo Luật Bảo hiểm y tế sửa đổi 2024 (số 51/2024/QH15) và nghị định hướng dẫn hiện hành; chưa đối chiếu văn bản gốc.
+> - Khi các thành viên cùng tham gia bảo hiểm y tế theo hộ gia đình trong năm tài chính, người thứ hai, thứ ba, thứ tư đóng lần lượt bằng **70%, 60%, 50%** mức đóng của người thứ nhất; từ người thứ năm trở đi bằng **40%** (Luật Bảo hiểm y tế, Điều 13 khoản 6, sửa bởi Luật 51/2024/QH15; Nghị định 188/2025/NĐ-CP, Điều 6 khoản 5).
+> *Nguồn VN:* [Luật 51/2024/QH15, Điều 1 khoản 11](https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-bao-hiem-y-te-1910.html) · [Nghị định 188/2025/NĐ-CP, Điều 6 khoản 5, bản Công báo](https://congbao.chinhphu.vn/tai-ve-van-ban-so-188-2025-nd-cp-45593-57770?format=pdf) · *Kiểm chứng ngày 05/11/2026*
 
 ### 14. Uống nước máy đun sôi, đừng đặt nước bình cho cây nước quanh năm, đừng mua nước đóng chai
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->

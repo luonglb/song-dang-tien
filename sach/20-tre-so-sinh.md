@@ -26,10 +26,10 @@ Thước đo: tỷ lệ tử vong ở trẻ nhỏ và tiền. Chương này ch�
 - **Ghi chú:** Mẹ có HBsAg dương tính thì sau sinh con còn phải tiêm cùng lúc một mũi globulin miễn dịch viêm gan B. Việc này phải hỏi cho rõ ngay từ lúc khám thai, đừng đợi sinh xong mới hỏi. Phần sàng lọc người mẹ tự cần làm, xem chương 1
 
 > **🇻🇳 Ở Việt Nam**
-> - Vắc-xin viêm gan B liều sơ sinh nằm trong danh mục tiêm chủng bắt buộc của Chương trình tiêm chủng mở rộng: tiêm một lần trong vòng 24 giờ sau sinh; tiêm không đúng lịch thì tiêm sớm ngay khi có thể trong vòng 28 ngày sau sinh. Các mũi sau dùng vắc-xin phối hợp có thành phần viêm gan B, bắt đầu khi con đủ 2 tháng tuổi (Thông tư 52/2025/TT-BYT, Điều 1, dòng 1; hiệu lực từ 15/02/2026, Thông tư 10/2024/TT-BYT hết hiệu lực cùng ngày).
+> - Thông tư **13/2026/TT-BYT** có hiệu lực **01/7/2026**, làm hết hiệu lực Thông tư 52/2025/TT-BYT (Điều 27 khoản 1, khoản 2 điểm d). Theo bản toàn văn đăng lại trên vanban.org, viêm gan B thuộc danh mục tiêm chủng bắt buộc qua Chương trình tiêm chủng mở rộng (Điều 3 khoản 1); cơ sở khám chữa bệnh có phòng sinh có trách nhiệm tổ chức tiêm vắc-xin viêm gan B **trong vòng 24 giờ sau sinh** (Điều 26 khoản 1). Lịch các liều sau, cách dùng và tiêm bù theo hướng dẫn nhà sản xuất, Cục Phòng bệnh (Điều 5 khoản 4, Điều 6 khoản 4); không lấy lịch của thông tư đã hết hiệu lực làm lịch hiện hành.
 > - Tiêm chủng bắt buộc qua Chương trình tiêm chủng mở rộng do ngân sách nhà nước bảo đảm (Luật Phòng bệnh 2025, số 114/2025/QH15, Điều 22 khoản 2; hiệu lực từ 01/7/2026).
 > - ⚠️ Chưa kiểm chứng: phác đồ tiêm huyết thanh kháng viêm gan B (HBIG) cho con của mẹ HBsAg dương tính theo hướng dẫn hiện hành của Bộ Y tế, và mũi HBIG có được chi trả hay không.
-> *Nguồn VN:* [Thông tư 52/2025/TT-BYT, Điều 1 và Điều 4 (bản đăng lại)](https://ketoananpha.vn/uploads/files/Van-ban-luat/The-thao-Y-te/Thong-tu-52_2025_TT-BYT.docx) · [Luật Phòng bệnh 2025, Điều 22, 45](https://hethongphapluat.com/luat-phong-benh-2025.html) · *Kiểm chứng ngày 03/11/2026*
+> *Nguồn VN:* [Thông tư 13/2026/TT-BYT, Điều 3, 5, 6, 26, 27 — bản đăng lại trên vanban.org](https://vanban.org/van-ban/thong-tu-13-2026-tt-byt-hoat-dong-tiem-chung) · [Luật Phòng bệnh 2025, Điều 22, 45](https://hethongphapluat.com/luat-phong-benh-2025.html) · *Kiểm chứng ngày 05/11/2026* (chỉ phần thông tư; nguồn Luật Phòng bệnh giữ ngày 03/11/2026)
 
 ### 3. Tiêm đủ các vắc-xin theo chương trình tiêm chủng quốc gia, hoàn toàn miễn phí; lỡ lịch thì chỉ tiêm bù những mũi còn thiếu
 <!-- 成本标签: 钱=0 时间=中 毅力=否 收益=大 口径=死亡率 人群=婴幼儿,孩子,怀孕 -->
@@ -43,10 +43,10 @@ Thước đo: tỷ lệ tử vong ở trẻ nhỏ và tiền. Chương này ch�
 
 > **🇻🇳 Ở Việt Nam**
 > - Chương trình tương ứng là **Chương trình tiêm chủng mở rộng**. Tiêm chủng bắt buộc qua chương trình này do ngân sách nhà nước bảo đảm. Người thuộc diện tiêm chủng bắt buộc phải tham gia, và Nhà nước bồi thường nếu xảy ra tai biến ảnh hưởng nghiêm trọng đến sức khoẻ hoặc tính mạng (Luật Phòng bệnh 2025, số 114/2025/QH15, Điều 22 khoản 2, Điều 23 khoản 3 điểm a; hiệu lực từ 01/7/2026, Luật Phòng, chống bệnh truyền nhiễm 2007 hết hiệu lực cùng ngày).
-> - Danh mục bệnh, vắc-xin và lịch tiêm cho trẻ em, phụ nữ có thai: Thông tư 52/2025/TT-BYT (hiệu lực từ 15/02/2026). Lịch Việt Nam khác Trung Quốc. Ví dụ vắc-xin phối hợp có thành phần bạch hầu, ho gà: lần 1 khi đủ 2 tháng tuổi, lần 2 và lần 3 mỗi lần cách ít nhất 1 tháng (ít nhất 28 ngày), nhắc lại khi đủ 18 tháng. Lỡ lịch thì có lịch tiêm bù riêng cho trẻ dưới 12 tháng và trẻ từ 12 tháng trở lên (Điều 1).
+> - Thông tư **13/2026/TT-BYT**, hiệu lực **01/7/2026**, đã làm hết hiệu lực Thông tư 52/2025/TT-BYT (Điều 27 khoản 1, khoản 2 điểm d). Theo bản toàn văn đăng lại trên vanban.org, danh mục bệnh thuộc Chương trình tiêm chủng mở rộng ở Điều 3; **lịch tiêm, cách dùng và tiêm bù theo hướng dẫn nhà sản xuất, Cục Phòng bệnh** (Điều 5 khoản 4, Điều 6 khoản 4). Không suy lịch tiêm theo tháng tuổi từ danh mục bệnh, cũng không lấy lịch Trung Quốc áp cho Việt Nam.
 > - Vắc-xin dịch vụ ngoài chương trình thì tự trả tiền.
-> - ⚠️ Chưa kiểm chứng: sau khi Luật Phòng bệnh 2025 có hiệu lực, Bộ Y tế đã ra thông tư danh mục mới thay Thông tư 52/2025/TT-BYT chưa (Thông tư 52 ban hành căn cứ luật năm 2007); Việt Nam có quy định kiểm tra sổ tiêm chủng khi vào nhà trẻ, vào lớp 1 như Trung Quốc không.
-> *Nguồn VN:* [Luật Phòng bệnh 2025, Điều 22, 23, 45](https://hethongphapluat.com/luat-phong-benh-2025.html) · [Thông tư 52/2025/TT-BYT, Điều 1, 3, 4 (bản đăng lại)](https://ketoananpha.vn/uploads/files/Van-ban-luat/The-thao-Y-te/Thong-tu-52_2025_TT-BYT.docx) · *Kiểm chứng ngày 03/11/2026*
+> - ⚠️ Chưa kiểm chứng: lịch tiêm theo tháng tuổi và lịch tiêm bù hiện hành trong hướng dẫn chuyên môn của Cục Phòng bệnh; quy định kiểm tra sổ tiêm khi vào nhà trẻ, lớp 1. Đem sổ tiêm đến trạm y tế hoặc cơ sở tiêm chủng để được đối chiếu từng mũi.
+> *Nguồn VN:* [Luật Phòng bệnh 2025, Điều 22, 23, 45](https://hethongphapluat.com/luat-phong-benh-2025.html) · [Thông tư 13/2026/TT-BYT, Điều 3, 5, 6, 27 — bản đăng lại trên vanban.org](https://vanban.org/van-ban/thong-tu-13-2026-tt-byt-hoat-dong-tiem-chung) · *Kiểm chứng ngày 05/11/2026* (chỉ phần thông tư; nguồn Luật Phòng bệnh giữ ngày 03/11/2026)
 
 ### 4. Sáu tháng đầu chỉ cho bú mẹ, đến nước cũng không cần cho uống; từ 6 tháng thì cho ăn dặm và vẫn cho bú tiếp
 <!-- 成本标签: 钱=0 时间=多 毅力=是 收益=中 口径=死亡率 人群=婴幼儿,怀孕 -->

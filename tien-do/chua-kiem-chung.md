@@ -4,7 +4,7 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 
 📌 Những chỗ này CHƯA được đối chiếu đủ với văn bản gốc của Việt Nam. Danh sách chỉ để người đọc và người dùng biết, không có nghĩa là nội dung sai hay đúng, và không đánh dấu mục nào là đã kiểm chứng.
 
-**Tổng: 401 mục có ghi "Chưa kiểm chứng", 430 dòng, 434 lần xuất hiện, trên 767 mục của 34 chương.**
+**Tổng: 390 mục có ghi "Chưa kiểm chứng", 416 dòng, 420 lần xuất hiện, trên 767 mục của 34 chương.**
 
 | Chương | Số mục của chương | Mục có ghi | Dòng | Lần xuất hiện |
 |---|---:|---:|---:|---:|
@@ -12,29 +12,29 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 | 2. Đừng chết mòn | 47 | 10 | 10 | 10 |
 | 3. Đừng phí sức | 27 | 4 | 4 | 4 |
 | 4. Đừng phí thời gian | 18 | 1 | 1 | 1 |
-| 5. Đừng phí tiền | 51 | 44 | 44 | 44 |
+| 5. Đừng phí tiền | 51 | 43 | 43 | 43 |
 | 6. Danh sách nên tránh | 35 | 4 | 4 | 4 |
-| 7. Sống thế nào khi không có tiền | 23 | 16 | 18 | 18 |
+| 7. Sống thế nào khi không có tiền | 23 | 14 | 16 | 16 |
 | 8. Đừng tự sa bẫy: pháp luật và an toàn tài sản | 46 | 35 | 39 | 40 |
 | 9. Lằn ranh pháp luật người thường dễ vướng | 29 | 24 | 25 | 25 |
-| 10. Yêu và cưới có đáng không | 23 | 10 | 10 | 10 |
+| 10. Yêu và cưới có đáng không | 23 | 9 | 9 | 9 |
 | 11. Lằn ranh dân lập trình và kỹ thuật dễ vướng | 21 | 15 | 15 | 15 |
 | 12. Khởi nghiệp và làm ăn: đừng đem cả vốn liếng gia đình ra cược | 28 | 23 | 25 | 25 |
 | 13. Tình huống khẩn cấp: làm gì trước | 48 | 16 | 16 | 16 |
 | 14. Tài khoản và an toàn thông tin | 12 | 7 | 9 | 11 |
 | 15. Thuê nhà và mua nhà | 18 | 10 | 10 | 10 |
-| 16. Sống thế nào khi mắc bệnh mạn tính | 14 | 3 | 3 | 3 |
+| 16. Sống thế nào khi mắc bệnh mạn tính | 14 | 2 | 2 | 2 |
 | 17. Nhà có người già | 13 | 4 | 4 | 4 |
-| 18. Nuôi con có đáng không | 7 | 3 | 4 | 4 |
-| 19. Đi làm, nghỉ việc và tai nạn lao động | 24 | 17 | 17 | 17 |
+| 18. Nuôi con có đáng không | 7 | 2 | 2 | 2 |
+| 19. Đi làm, nghỉ việc và tai nạn lao động | 24 | 15 | 15 | 15 |
 | 20. Chăm trẻ sơ sinh | 17 | 5 | 5 | 5 |
 | 21. Du lịch và an toàn ở nước ngoài | 13 | 8 | 8 | 8 |
 | 22. Thư giãn thế nào: nơi vui chơi giải trí và giảm căng thẳng | 12 | 4 | 4 | 4 |
-| 23. Học kỹ năng gì cho đáng | 25 | 14 | 17 | 17 |
+| 23. Học kỹ năng gì cho đáng | 25 | 13 | 16 | 16 |
 | 24. Đi khám bệnh: đỡ tốn tiền, đỡ đi đường vòng | 15 | 8 | 8 | 8 |
 | 25. Khi người thân qua đời cần làm gì | 12 | 12 | 12 | 12 |
-| 26. Làm website hoặc nền tảng: giấy phép, đăng ký và máy chủ | 13 | 12 | 15 | 15 |
-| 27. Mang thai và sinh con: từ lúc biết có thai tới khi xuất viện, làm giấy tờ | 20 | 6 | 6 | 6 |
+| 26. Làm website hoặc nền tảng: giấy phép, đăng ký và máy chủ | 13 | 12 | 13 | 13 |
+| 27. Mang thai và sinh con: từ lúc biết có thai tới khi xuất viện, làm giấy tờ | 20 | 4 | 4 | 4 |
 | 28. Đừng vì ngoại hình mà hại thân | 10 | 5 | 5 | 5 |
 | 29. Sau một cú sốc lớn | 14 | 6 | 6 | 6 |
 | 30. Con đi học | 21 | 12 | 14 | 14 |
@@ -42,7 +42,7 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 | 32. Du học: giữ tình trạng cư trú, làm thêm, bảo hiểm và công nhận bằng khi về nước | 12 | 12 | 17 | 17 |
 | 33. Sống thế nào sau khi khuyết tật | 21 | 13 | 13 | 13 |
 | 34. Thuốc trong nhà: đừng uống ra chuyện | 13 | 9 | 9 | 9 |
-| **Tổng** | **767** | **401** | **430** | **434** |
+| **Tổng** | **767** | **390** | **416** | **420** |
 
 ## 1. Đừng chết sớm
 
@@ -103,7 +103,6 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 - **5.10**: ⚠️ Chưa kiểm chứng: tội danh tương ứng ở Việt Nam với việc cho mượn, bán, cho thuê tài khoản ngân hàng, SIM điện thoại để kẻ gian dùng.
 - **5.11**: ⚠️ Chưa kiểm chứng: Việt Nam có thời hạn bảo hành tối thiểu bắt buộc cho máy giặt, tủ lạnh như quy định "ba bảo đảm" của Trung Quốc hay không (Luật Bảo vệ quyền lợi người tiêu dùng 2023, số 19/2023/QH15, có quy định về trách nhiệm bảo hành nhưng chưa đối chiếu điều khoản).
 - **5.12**: ⚠️ Chưa kiểm chứng: thông tư đấu thầu thuốc hiện hành (Thông tư 07/2024/TT-BYT hay văn bản thay thế), cách chia nhóm thuốc generic theo tiêu chí kỹ thuật (ví dụ nhóm có chứng minh tương đương sinh học), và mức giảm giá nhờ đấu thầu tập trung ở Việt Nam.
-- **5.13**: ⚠️ Chưa kiểm chứng: mức giảm đóng bảo hiểm y tế hộ gia đình cho người thứ hai, thứ ba… theo Luật Bảo hiểm y tế sửa đổi 2024 (số 51/2024/QH15) và nghị định hướng dẫn hiện hành; chưa đối chiếu văn bản gốc.
 - **5.14**: ⚠️ Chưa kiểm chứng: giá nước sinh hoạt bậc thấp nhất của từng địa phương Việt Nam để tính lại phép so sánh ở trên (ví dụ Hà Nội, TP.HCM).
 - **5.16**: ⚠️ Chưa kiểm chứng: Việt Nam có ngưỡng điều kiện mở tài khoản ký quỹ cho nhà đầu tư cá nhân (thời gian giao dịch, tài sản tối thiểu) như Trung Quốc hay không, và tỷ lệ ký quỹ ban đầu, tỷ lệ duy trì tối thiểu hiện hành theo quy định của Bộ Tài chính, Uỷ ban Chứng khoán Nhà nước.
 - **5.18**: ⚠️ Chưa kiểm chứng: Việt Nam có quy định trần phí quản lý quỹ như Trung Quốc hay không; mức phí phổ biến của quỹ mở, ETF trong nước.
@@ -145,8 +144,7 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 
 ## 7. Sống thế nào khi không có tiền
 
-- **7.2**: ⚠️ Chưa kiểm chứng: số tổng đài và thủ tục khiếu nại với thanh tra lao động hiện nay (cơ quan quản lý lao động đã sắp xếp lại năm 2025); mức phạt hành chính khi chậm trả lương; ngưỡng của tội không trả lương trong Bộ luật Hình sự Việt Nam.
-- **7.3**: Luật Trợ giúp pháp lý sửa đổi được Quốc hội thông qua ngày 23/4/2026, thêm người lao động thu nhập thấp là người bị buộc tội hoặc bị hại (chỉ trong án hình sự). ⚠️ Chưa kiểm chứng: số hiệu và ngày hiệu lực của luật sửa đổi (chỉ có báo chí đưa tin).
+- **7.2**: ⚠️ Chưa kiểm chứng: số tổng đài, thủ tục khiếu nại với cơ quan thanh tra lao động sau sắp xếp năm 2025 và căn cứ hình sự khi không trả lương; không suy ngưỡng hình sự của Trung Quốc sang Việt Nam.
 - **7.7**: Việt Nam không trả tiền "bù cho đủ ngưỡng" như Trung Quốc. Cái tương ứng là được công nhận hộ nghèo, hộ cận nghèo theo chuẩn nghèo đa chiều, rồi hưởng các chính sách kèm theo. ⚠️ Chưa kiểm chứng: chuẩn nghèo áp dụng cho giai đoạn 2026–2030 (số văn bản và mức thu nhập).
 - **7.7**: Người thuộc hộ nghèo được nhà nước đóng bảo hiểm y tế (Luật BHYT, Điều 12 khoản 14 bản 2008) và được trợ giúp pháp lý miễn phí (Luật TGPL 2017, Điều 7 khoản 2). ⚠️ Chưa kiểm chứng: mức hưởng bảo hiểm y tế của hộ nghèo, hộ cận nghèo sau Luật BHYT sửa đổi 2024.
 - **7.8**: Nộp hồ sơ ở UBND xã, phường. Tỉnh có thể quy định mức cao hơn. ⚠️ Chưa kiểm chứng: thủ tục xác định mức độ khuyết tật và cấp giấy xác nhận khuyết tật hiện hành.
@@ -156,7 +154,6 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 - **7.12**: ⚠️ Chưa kiểm chứng: tỷ lệ hỗ trợ đóng bảo hiểm xã hội tự nguyện hiện hành cho hộ nghèo, hộ cận nghèo và người khác; các chính sách hỗ trợ việc làm cho người yếu thế (vay vốn tạo việc làm, việc làm công) theo Luật Việc làm 2025 và văn bản hướng dẫn.
 - **7.13**: ⚠️ Chưa kiểm chứng: mức hỗ trợ học phí tối đa mỗi tháng và hồ sơ, thủ tục theo nghị định hướng dẫn Luật Việc làm 2025.
 - **7.15**: ⚠️ Chưa kiểm chứng: mức phạt hành chính hiện hành khi giữ giấy tờ, thu tiền cọc của người lao động; quy định về tội tổ chức kinh doanh đa cấp trái phép trong Bộ luật Hình sự.
-- **7.16**: ⚠️ Chưa kiểm chứng: nguyên văn Điều 76–78 Luật Nhà ở 2023 (danh sách đối tượng, điều kiện về nhà ở và thu nhập); theo trang tóm tắt luật, người chỉ thuê nhà ở xã hội thì không bị xét điều kiện nhà ở và thu nhập, nhưng chưa đối chiếu được với nguyên văn điều luật.
 - **7.19**: Điều 107 (bản 2015): người dưới 18 tuổi bị kết án trong nhiều trường hợp được coi là không có án tích (ví dụ người từ đủ 14 đến dưới 16 tuổi). ⚠️ Chưa kiểm chứng: lời văn Điều 107 hiện hành sau Luật Tư pháp người chưa thành niên số 59/2024/QH15 (hiệu lực 01/01/2026).
 - **7.19**: ⚠️ Chưa kiểm chứng: thủ tục xin phiếu lý lịch tư pháp sau khi xoá án tích; chính sách hỗ trợ tái hoà nhập cộng đồng cho người chấp hành xong án phạt tù; thời gian lưu thông tin nợ xấu tại Trung tâm Thông tin tín dụng (CIC); Luật Phá sản mới (nếu đã thay luật 2014).
 - **7.20**: ⚠️ Chưa kiểm chứng: quy định về tái tục và thời gian chờ của bảo hiểm sức khoẻ ở Việt Nam (thường nằm trong điều khoản sản phẩm và văn bản hướng dẫn); giá tham khảo các gói bảo hiểm sức khoẻ.
@@ -199,7 +196,7 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 - **8.34**: ⚠️ Chưa kiểm chứng: thủ tục và thời hạn người dân gửi đơn đề nghị xem xét theo giám đốc thẩm, tái thẩm; các điều trên đã đối chiếu với lần sửa đổi Bộ luật Tố tụng hình sự năm 2025 hay chưa.
 - **8.35**: ⚠️ Chưa kiểm chứng: mức lương cơ sở hiện hành; các trường hợp Nhà nước không bồi thường theo luật Việt Nam; luật này đã được sửa đổi sau năm 2017 hay chưa.
 - **8.36**: ⚠️ Chưa kiểm chứng: số tổng đài hỗ trợ người tiêu dùng hiện hành ở Việt Nam.
-- **8.37**: 12356 là đường dây hỗ trợ tâm lý của Trung Quốc. ⚠️ Chưa kiểm chứng: đường dây hỗ trợ tâm lý, phòng chống tự sát chính thức ở Việt Nam; nghĩa vụ gỡ nội dung vi phạm của nền tảng mạng theo luật hiện hành.
+- **8.37**: 12356 là đường dây hỗ trợ tâm lý của Trung Quốc. ⚠️ Chưa kiểm chứng: đường dây hỗ trợ tâm lý, phòng chống tự sát chính thức ở Việt Nam.
 - **8.39**: ⚠️ Chưa kiểm chứng: các điều trên đã đối chiếu với lần sửa đổi Bộ luật Tố tụng hình sự năm 2025 hay chưa (tên cơ quan, cấp giải quyết có thể đổi).
 - **8.41**: ⚠️ Chưa kiểm chứng: luật Việt Nam có quy định rõ việc tự ghi âm cuộc nói chuyện mình tham gia mà không báo trước là hợp pháp hay không; hiện thường do Toà xem xét từng vụ.
 - **8.43**: ⚠️ Chưa kiểm chứng: đường dây nóng hỗ trợ nạn nhân bạo lực gia đình chính thức hiện hành; cấp xã sau sắp xếp chính quyền 2025 có còn đúng thẩm quyền như Điều 25 không.
@@ -241,7 +238,6 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 - **10.12**: Vợ chồng liên đới chịu trách nhiệm với các nghĩa vụ ở Điều 37 (Điều 27). Khoản vay lớn một bên tự ký, không thuộc các trường hợp trên, thì về nguyên tắc là nghĩa vụ riêng của người vay. ⚠️ Chưa kiểm chứng: Việt Nam phân chia nghĩa vụ chứng minh giữa chủ nợ và vợ/chồng người vay thế nào.
 - **10.13**: ⚠️ Chưa kiểm chứng: danh sách giấy tờ phải xuất trình hiện nay (căn cước, giấy xác nhận tình trạng hôn nhân khi nào còn phải nộp) sau các thay đổi về dữ liệu dân cư và chính quyền hai cấp năm 2025.
 - **10.14**: ⚠️ Chưa kiểm chứng: cố ý giấu bệnh nặng (ví dụ nhiễm HIV) có được coi là "lừa dối kết hôn" theo hướng dẫn hiện hành của Hội đồng Thẩm phán Toà án nhân dân tối cao hay không; và quy định hiện hành về khám sức khoẻ trước hôn nhân (có miễn phí không, ở đâu).
-- **10.18**: ⚠️ Chưa kiểm chứng: bệnh viện Việt Nam có chấp nhận người giám hộ tự chọn hoặc người được uỷ quyền ký đồng ý phẫu thuật thay người bệnh hay không (Luật Khám bệnh, chữa bệnh 2023).
 - **10.19**: Khác Trung Quốc: luật Việt Nam cấm kết hôn giả tạo (Điều 5 khoản 2 điểm a) và cho người bị lừa dối kết hôn yêu cầu toà huỷ kết hôn trái pháp luật (Điều 10 khoản 1). ⚠️ Chưa kiểm chứng: toà Việt Nam có coi việc giấu xu hướng tính dục, hay hôn nhân hình thức, là "lừa dối kết hôn" hoặc "kết hôn giả tạo" hay không; chưa tìm được hướng dẫn hay bản án công khai.
 - **10.20**: ⚠️ Chưa kiểm chứng: quy định hiện hành của Việt Nam về ai được làm trị liệu tâm lý (Luật Khám bệnh, chữa bệnh 2023 và văn bản hướng dẫn), và nơi có dịch vụ trị liệu cặp đôi được cấp phép. Trước khi đi, hỏi khoa tâm thần hoặc khoa tâm lý của bệnh viện, và hỏi rõ chứng chỉ hành nghề của người trị liệu.
 - **10.21**: ⚠️ Chưa kiểm chứng: mốc thời gian để Việt Nam công nhận "hôn nhân thực tế" cho các cặp sống chung từ trước (không phải mốc 1994 của Trung Quốc).
@@ -308,7 +304,7 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 - **13.36**: ⚠️ Chưa kiểm chứng: khung hình phạt tội cướp tài sản và điều kiện phòng vệ chính đáng, vượt quá giới hạn phòng vệ chính đáng theo Bộ luật Hình sự 2015 (sửa đổi 2017) của Việt Nam. Chưa mở được văn bản gốc để trích đúng điều khoản; đừng dựa vào các con số của Trung Quốc ở trên.
 - **13.37**: ⚠️ Chưa kiểm chứng: Bộ luật Hình sự 2015 (sửa đổi 2017) của Việt Nam có chế định "không tố giác tội phạm" — khác Trung Quốc, ở Việt Nam biết mà không báo có thể bị xử lý với một số loại tội. Phạm vi áp dụng với người qua đường, cùng tội danh và khung phạt cho tụ tập đánh nhau, gây rối trật tự công cộng, chưa mở được văn bản gốc để đối chiếu. Đừng coi các mốc "không báo không phạm luật" ở trên là đúng cho Việt Nam.
 - **13.38**: ⚠️ Chưa kiểm chứng: danh sách cơ sở cấp thuốc PEP ở Việt Nam, giá một liệu trình, và thuốc PEP có được bảo hiểm y tế hoặc chương trình phòng chống HIV chi trả hay không. Chưa tìm được văn bản chính thức của Bộ Y tế.
-- **13.39**: ⚠️ Chưa kiểm chứng: Việt Nam có quy định tương ứng hay không về (1) người được cứu hoặc người gây hại phải bồi thường cho người cứu bị thiệt hại (Bộ luật Dân sự 2015); (2) chế độ khen thưởng, hỗ trợ người có hành động dũng cảm cứu người; (3) bảo hiểm y tế chi trả khi bị thương lúc cứu người. Chưa mở được văn bản gốc để trích điều khoản.
+- **13.39**: Theo bản đăng lại Bộ luật Dân sự số 91/2015/QH13, người gây ra tình thế cấp thiết dẫn tới thiệt hại phải bồi thường (Điều 595 khoản 2); người có công việc được thực hiện phải thanh toán chi phí hợp lý trong chế định thực hiện công việc không có uỷ quyền (Điều 576 khoản 1). ⚠️ Chưa kiểm chứng: cách áp dụng hai điều này cho từng vụ cứu người lạ; không thể mặc nhiên buộc người được cứu trả mọi thiệt hại của người cứu.
 - **13.42**: ⚠️ Chưa kiểm chứng: ở Việt Nam thuốc tránh thai khẩn cấp levonorgestrel có thuộc danh mục thuốc không kê đơn hay không; quy trình giám định pháp y khi bị xâm hại tình dục. Thuốc dự phòng HIV xem khung Việt Nam ở chương này mục 38.
 - **13.46**: ⚠️ Chưa kiểm chứng: trách nhiệm bồi thường của người uống cùng theo pháp luật Việt Nam. Hai bản án Trung Quốc ở trên không áp dụng ở Việt Nam; chưa tìm được văn bản hoặc án lệ Việt Nam tương ứng.
 
@@ -339,7 +335,6 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 
 ## 16. Sống thế nào khi mắc bệnh mạn tính
 
-- **16.2**: ⚠️ Chưa kiểm chứng: danh sách bệnh cụ thể Bộ Y tế cho hưởng 100% theo điểm a, và tăng huyết áp, tiểu đường có nằm trong đó không.
 - **16.3**: ⚠️ Chưa kiểm chứng: văn bản Việt Nam quy định việc các cơ sở khám bệnh, chữa bệnh công nhận kết quả xét nghiệm, chẩn đoán hình ảnh của nhau (điều khoản cụ thể và điều kiện ngoại lệ).
 - **16.6**: ⚠️ Chưa kiểm chứng: quy định hiện hành của Việt Nam về bác sĩ gia đình, quản lý bệnh mạn tính ở trạm y tế, và việc gói dịch vụ nào được bảo hiểm y tế trả.
 
@@ -352,16 +347,13 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 
 ## 18. Nuôi con có đáng không
 
-- **18.1**: ⚠️ Chưa kiểm chứng: Chính phủ đã ra nghị định quy định mức tiền hỗ trợ khi sinh con theo Luật Dân số 2025 chưa, mức bao nhiêu.
 - **18.1**: ⚠️ Chưa kiểm chứng: Luật Thuế thu nhập cá nhân 2025 (luật mới) có giữ nguyên nguyên tắc "mỗi người phụ thuộc chỉ tính cho một người" và điều kiện con là người phụ thuộc hay không; chưa đọc được nguyên văn điều khoản.
-- **18.3**: ⚠️ Chưa kiểm chứng: mức phạt người sử dụng lao động vi phạm các điều trên (thường được dẫn là Nghị định 12/2022/NĐ-CP Điều 28; chưa đọc được nguyên văn điều khoản).
 - **18.7**: ⚠️ Chưa kiểm chứng: số điều cụ thể trong Nghị định 207/2025/NĐ-CP (mới đọc bản tóm tắt của Sở Tư pháp Cần Thơ, chưa đọc nguyên văn); chi phí một chu kỳ thụ tinh trong ống nghiệm ở Việt Nam và tỷ lệ thành công theo tuổi (chưa có số liệu chính thức).
 
 ## 19. Đi làm, nghỉ việc và tai nạn lao động
 
-- **19.1**: ⚠️ Chưa kiểm chứng: Việt Nam có quy định "quá hạn không trả phải trả thêm 50%–100%" giống Trung Quốc không, và mức phạt hành chính hiện hành khi không trả tiền làm thêm giờ.
+- **19.1**: Bị nợ lương làm thêm: giải quyết tranh chấp theo Bộ luật Lao động 2019 số 45/2019/QH14, Điều 187–190 (xem chương 7 mục 2). ⚠️ Chưa kiểm chứng: đầu mối thanh tra, thủ tục khiếu nại hiện nay sau sắp xếp cơ quan. Nghị định 283/2026/NĐ-CP, Điều 23 khoản 2 và Điều 7 khoản 1: chậm trả lương, không trả hoặc trả thiếu lương làm thêm bị phạt 5–10 / 10–20 / 20–30 / 30–40 / 40–50 triệu đồng đối với cá nhân, tương ứng 1–10 / 11–50 / 51–100 / 101–300 / từ 301 người bị vi phạm; tổ chức chịu gấp đôi. Điều 66 khoản 1, 4: áp dụng từ 10/9/2026, thay Nghị định 12/2022/NĐ-CP.
 - **19.2**: ⚠️ Chưa kiểm chứng: Việt Nam không có mức "300% lương ngày" cho ngày phép chưa nghỉ khi vẫn đang làm; cách tính tiền những ngày này do nghị định hướng dẫn quy định, chưa đối chiếu nguyên văn.
-- **19.7**: ⚠️ Chưa kiểm chứng: điều kiện hưởng trợ cấp thất nghiệp hiện hành (Luật Việc làm sửa đổi) có loại trừ người tự nghỉ việc hay không.
 - **19.8**: ⚠️ Chưa kiểm chứng: quy định Việt Nam về nghĩa vụ chứng minh trong tranh chấp lao động và thời gian công ty phải lưu sổ lương.
 - **19.9**: ⚠️ Chưa kiểm chứng: Việt Nam có bắt buộc khám khi rời vị trí và cấm chấm dứt hợp đồng khi chưa khám như Trung Quốc không.
 - **19.10**: ⚠️ Chưa kiểm chứng: danh mục bệnh nghề nghiệp được hưởng bảo hiểm ở Việt Nam hiện hành (thông tư Bộ Y tế) có bao nhiêu bệnh, gồm bụi phổi silic, điếc nghề nghiệp do tiếng ồn hay không.
@@ -369,8 +361,7 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 - **19.12**: ⚠️ Chưa kiểm chứng: chết đột ngột do bệnh trong giờ làm ở Việt Nam có được giải quyết theo chế độ nào ngoài chế độ tử tuất thông thường của bảo hiểm xã hội hay không.
 - **19.13**: ⚠️ Chưa kiểm chứng: mức phạt và tiền chậm đóng hiện hành với công ty không đóng bảo hiểm xã hội ở Việt Nam.
 - **19.16**: ⚠️ Chưa kiểm chứng: đường dây hỗ trợ tâm lý miễn phí toàn quốc của Việt Nam tương đương 12356 (Trung Quốc).
-- **19.17**: ⚠️ Chưa kiểm chứng: hồ sơ hưởng trợ cấp thất nghiệp hiện hành ở Việt Nam cần loại giấy tờ chấm dứt hợp đồng nào và nộp trong thời hạn bao lâu.
-- **19.18**: ⚠️ Chưa kiểm chứng: Luật Thuế thu nhập cá nhân 2025 có giữ quy định không tính thuế với trợ cấp thôi việc, trợ cấp mất việc làm hay không (chưa mở được nguyên văn điều khoản), và khoản bồi thường thoả thuận thêm ngoài mức luật định bị tính thuế thế nào. Hỏi cơ quan thuế quản lý trực tiếp trước khi ký.
+- **19.18**: ⚠️ Chưa kiểm chứng: cách tính thuế khoản bồi thường hoặc khoản thoả thuận thêm ngoài trợ cấp thôi việc, mất việc; không suy rằng mọi khoản tiền lúc nghỉ việc đều được loại trừ. Hỏi cơ quan thuế quản lý trực tiếp trước khi ký.
 - **19.19**: ⚠️ Chưa kiểm chứng: bảo hiểm xã hội Việt Nam quản lý thống nhất toàn quốc nên đổi chỗ làm sang tỉnh khác chỉ cần đơn vị mới đóng tiếp, thời gian đóng tự cộng nối (điều khoản cụ thể trong Luật Bảo hiểm xã hội 2024 chưa đối chiếu); thủ tục đổi nơi khám chữa bệnh ban đầu của thẻ bảo hiểm y tế khi chuyển tỉnh.
 - **19.20**: ⚠️ Chưa kiểm chứng: mức phạt hành chính hiện hành với công ty không giao kết hợp đồng lao động bằng văn bản.
 - **19.21**: ⚠️ Chưa kiểm chứng: thủ tục khiếu nại, mức tiền chậm đóng, mức phạt khi công ty trốn đóng, chậm đóng bảo hiểm xã hội theo Luật Bảo hiểm xã hội 2024 và nghị định hiện hành; tội trốn đóng bảo hiểm (Bộ luật Hình sự) — chưa đối chiếu nguyên văn bản sửa đổi mới nhất.
@@ -380,7 +371,7 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 ## 20. Chăm trẻ sơ sinh
 
 - **20.2**: ⚠️ Chưa kiểm chứng: phác đồ tiêm huyết thanh kháng viêm gan B (HBIG) cho con của mẹ HBsAg dương tính theo hướng dẫn hiện hành của Bộ Y tế, và mũi HBIG có được chi trả hay không.
-- **20.3**: ⚠️ Chưa kiểm chứng: sau khi Luật Phòng bệnh 2025 có hiệu lực, Bộ Y tế đã ra thông tư danh mục mới thay Thông tư 52/2025/TT-BYT chưa (Thông tư 52 ban hành căn cứ luật năm 2007); Việt Nam có quy định kiểm tra sổ tiêm chủng khi vào nhà trẻ, vào lớp 1 như Trung Quốc không.
+- **20.3**: ⚠️ Chưa kiểm chứng: lịch tiêm theo tháng tuổi và lịch tiêm bù hiện hành trong hướng dẫn chuyên môn của Cục Phòng bệnh; quy định kiểm tra sổ tiêm khi vào nhà trẻ, lớp 1. Đem sổ tiêm đến trạm y tế hoặc cơ sở tiêm chủng để được đối chiếu từng mũi.
 - **20.7**: ⚠️ Chưa kiểm chứng: Quyết định 4128/QĐ-BYT đã được thay bằng hướng dẫn mới chưa (mới đọc công văn 2017 qua bản đăng lại, chưa đọc nguyên văn quyết định).
 - **20.10**: ⚠️ Chưa kiểm chứng: TCVN 10584:2014 là tự nguyện hay bị một quy chuẩn kỹ thuật (QCVN) bắt buộc dẫn chiếu; cơ quan nào ở Việt Nam công bố kết quả kiểm tra chất lượng tã giấy và tra ở đâu (bảng chỉ tiêu nguyên văn bị khoá phí, chưa đọc được).
 - **20.13**: ⚠️ Chưa kiểm chứng: lịch thăm khám bà mẹ, trẻ sơ sinh sau sinh tại nhà hoặc tại trạm y tế theo hướng dẫn hiện hành của Bộ Y tế; Việt Nam đã đưa thẻ so màu phân vào sổ theo dõi sức khoẻ bà mẹ trẻ em chưa.
@@ -405,7 +396,6 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 
 ## 23. Học kỹ năng gì cho đáng
 
-- **23.1**: ⚠️ Chưa kiểm chứng: mức phạt hiện hành khi dùng lao động chưa thành niên trái luật (Nghị định 12/2022/NĐ-CP Điều 29); chưa mở được nguyên văn điều này.
 - **23.3**: ⚠️ Chưa kiểm chứng: tỷ lệ người Việt Nam có trình độ cao đẳng, đại học trở lên và số năm đi học bình quân theo số liệu chính thức mới nhất; chưa mở được bảng số gốc.
 - **23.4**: ⚠️ Chưa kiểm chứng: Nghị quyết 217/2025/QH15 miễn học phí cho trẻ mầm non, học sinh phổ thông trường công lập và hỗ trợ học phí cho trường ngoài công lập từ năm học 2025–2026 (chỉ đọc được báo chí đưa tin, chưa mở được nguyên văn điều khoản); có áp dụng cho học sinh học chương trình phổ thông ở trường nghề hay không.
 - **23.4**: ⚠️ Chưa kiểm chứng: mức vay tối đa hiện hành của chương trình tín dụng học sinh, sinh viên qua Ngân hàng Chính sách xã hội (Quyết định 157/2007/QĐ-TTg và các văn bản sửa đổi). Hỏi phòng giao dịch Ngân hàng Chính sách xã hội ở xã, phường trước khi tính.
@@ -452,29 +442,25 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 ## 26. Làm website hoặc nền tảng: giấy phép, đăng ký và máy chủ
 
 - **26.1**: ⚠️ Chưa kiểm chứng: mức vốn điều lệ tối thiểu cho từng loại dịch vụ trung gian thanh toán (Điều 22 Nghị định 52/2024/NĐ-CP), mức phạt hành chính, và nền tảng thu hộ chi hộ có thể bị xử lý hình sự theo điều nào của Bộ luật Hình sự 2015.
-- **26.2**: Trang thông tin điện tử tổng hợp và mạng xã hội cần giấy phép riêng theo Nghị định 147/2024/NĐ-CP. ⚠️ Chưa kiểm chứng: số điều, khoản cụ thể và điều kiện cấp phép (chưa đọc được nguyên văn các điều này).
-- **26.2**: ⚠️ Chưa kiểm chứng: Việt Nam có loại giấy phép tương đương giấy phép viễn thông giá trị gia tăng / EDI của Trung Quốc cho website thu tiền hay không; nghị định hướng dẫn Luật Thương mại điện tử 2025 quy định thủ tục thông báo, đăng ký thế nào.
-- **26.3**: Theo Nghị định 147/2024/NĐ-CP, chỉ mạng xã hội đã được cấp Giấy phép cung cấp dịch vụ mạng xã hội mới được cung cấp tính năng livestream hoặc hoạt động có phát sinh doanh thu. ⚠️ Chưa kiểm chứng: số điều, khoản cụ thể (chưa đọc được nguyên văn điều này).
+- **26.2**: Theo bản đăng lại Nghị định 147/2024/NĐ-CP, trang thông tin điện tử tổng hợp phải có giấy phép (Điều 25 khoản 1). Mạng xã hội trong nước có lượng truy cập thường xuyên lớn cần giấy phép; loại thấp cần giấy xác nhận thông báo (Điều 24 khoản 6 điểm a, b). Chỉ mạng xã hội có giấy phép mới được cung cấp livestream hoặc hoạt động có phát sinh doanh thu; loại thấp có nhu cầu này có thể xin giấy phép (Điều 24 khoản 6 điểm d). ⚠️ Chưa kiểm chứng đầy đủ: điều kiện, thủ tục cấp phép sau các văn bản sửa đổi năm 2026.
+- **26.2**: Theo bản đăng lại Nghị định 248/2026/NĐ-CP (hiệu lực 01/7/2026), nền tảng tự bán hàng có đặt hàng trực tuyến phải được xác nhận thông báo trước khi vận hành (Điều 23 khoản 1); nền tảng trung gian, mạng xã hội hoạt động thương mại điện tử, nền tảng tích hợp chỉ vận hành khi đủ điều kiện và đã được Bộ Công Thương xác nhận đăng ký (Điều 25 khoản 1). ⚠️ Chưa kiểm chứng: có giấy phép tương đương viễn thông giá trị gia tăng / EDI của Trung Quốc chỉ vì website thu tiền hay không.
 - **26.3**: ⚠️ Chưa kiểm chứng: giấy phép cung cấp dịch vụ phát thanh, truyền hình trên mạng ở Việt Nam và điều kiện về chủ sở hữu.
 - **26.4**: ⚠️ Chưa kiểm chứng: Việt Nam có thủ tục đăng ký bắt buộc cho mọi website, app đặt máy chủ trong nước giống đăng ký ICP và đăng ký app của Trung Quốc hay không. Chưa tìm thấy văn bản tương ứng.
 - **26.5**: ⚠️ Chưa kiểm chứng: mức phạt khi nền tảng không xác thực, không lưu dữ liệu ở Việt Nam; có ngưỡng doanh thu miễn đăng ký kinh doanh cho người bán nhỏ lẻ hay không.
-- **26.6**: Với mạng xã hội, Nghị định 147/2024/NĐ-CP yêu cầu ngăn chặn, gỡ bỏ nội dung vi phạm pháp luật chậm nhất 24 giờ kể từ khi có yêu cầu của cơ quan có thẩm quyền, và có công cụ điện tử để tiếp nhận, xử lý khiếu nại của người dùng. ⚠️ Chưa kiểm chứng: số điều, khoản cụ thể và mức phạt (chưa đọc được nguyên văn các điều này).
-- **26.7**: Từ 25/12/2024, mạng xã hội phải xác thực tài khoản người dùng bằng số điện thoại di động tại Việt Nam (chỉ dùng số định danh cá nhân khi người dùng không có số điện thoại Việt Nam), và chỉ tài khoản đã xác thực mới được đăng bài, bình luận, livestream (Nghị định 147/2024/NĐ-CP). ⚠️ Chưa kiểm chứng: số điều, khoản cụ thể và mức phạt (chưa đọc được nguyên văn các điều này; nội dung trên lấy từ trang đăng lại nghị định và tin của cổng thông tin tỉnh Hà Tĩnh).
-- **26.8**: Theo Nghị định 147/2024/NĐ-CP, trẻ em (dưới 16 tuổi) dùng mạng xã hội thì cha, mẹ hoặc người giám hộ đăng ký tài khoản bằng thông tin của cha, mẹ hoặc người giám hộ. ⚠️ Chưa kiểm chứng: số điều, khoản cụ thể (chưa đọc được nguyên văn điều này).
+- **26.6**: Theo bản đăng lại Nghị định 147/2024/NĐ-CP, mạng xã hội trong nước phải có nhân sự trực 24/7 để xử lý yêu cầu cơ quan có thẩm quyền và khiếu nại người dùng (Điều 28 khoản 2 điểm b). ⚠️ Chưa kiểm chứng: mức phạt cụ thể khi không thực hiện.
+- **26.7**: Theo bản đăng lại Nghị định 147/2024/NĐ-CP (hiệu lực 25/12/2024), mạng xã hội trong nước xác thực tài khoản bằng số điện thoại Việt Nam; chỉ khi người dùng xác nhận không có số điện thoại Việt Nam mới dùng số định danh cá nhân. Livestream với mục đích thương mại phải xác thực bằng số định danh cá nhân; chỉ tài khoản đã xác thực mới được đăng bài, bình luận, livestream, chia sẻ (Điều 27 khoản 3 điểm b). Với nhà cung cấp nước ngoài thuộc diện áp dụng, quy định tương ứng ở Điều 23 khoản 3 điểm e; tài khoản đang hoạt động được xác thực trong 90 ngày từ khi nghị định có hiệu lực (Điều 82 khoản 10). ⚠️ Chưa kiểm chứng: mức phạt cụ thể.
 - **26.8**: ⚠️ Chưa kiểm chứng: Việt Nam có quy định riêng về tuổi được mở kênh livestream và mức tặng quà (donate) của trẻ em hay không.
-- **26.9**: ⚠️ Chưa kiểm chứng: trách nhiệm của doanh nghiệp cung cấp dịch vụ trung gian theo Luật Sở hữu trí tuệ (sửa đổi 2022) và thời hạn gỡ bỏ nội dung xâm phạm theo văn bản hướng dẫn (chưa đọc được nguyên văn).
-- **26.10**: ⚠️ Chưa kiểm chứng: nghị định hướng dẫn thành phần hồ sơ, thủ tục (Điều 20 khoản 7), và quy định lưu trữ dữ liệu tại Việt Nam theo pháp luật an ninh mạng.
+- **26.9**: ⚠️ Chưa kiểm chứng: trách nhiệm riêng của doanh nghiệp trung gian và thời hạn xử lý thông báo, phản bác về sở hữu trí tuệ theo văn bản hiện hành.
+- **26.10**: ⚠️ Chưa kiểm chứng: thành phần hồ sơ, thủ tục theo nghị định hướng dẫn Luật Bảo vệ dữ liệu cá nhân và điều kiện, thời hạn lưu trong nước theo văn bản hướng dẫn Luật An ninh mạng 2025.
 - **26.12**: ⚠️ Chưa kiểm chứng: Luật có bắt buộc thông báo trực tiếp cho người dùng bị ảnh hưởng hay không (Điều 23 không nói); nội dung thông báo do Chính phủ quy định (Điều 23 khoản 5), chưa đối chiếu nghị định hướng dẫn.
-- **26.13**: ⚠️ Chưa kiểm chứng: Luật Bảo vệ quyền lợi người tiêu dùng 2023 (số 19/2023/QH15) và văn bản hướng dẫn có quy định nhắc trước khi gia hạn tự động và lối huỷ thuận tiện hay không (chưa đọc được nguyên văn). Trong khi chờ đối chiếu đầy đủ, nên làm như bản gốc: nhắc trước khi gia hạn và có cách huỷ thuận tiện, để tránh tranh chấp.
+- **26.13**: ⚠️ Chưa kiểm chứng đầy đủ: nghĩa vụ riêng nhắc trước khi tự động gia hạn theo Luật Bảo vệ quyền lợi người tiêu dùng số 19/2023/QH15 và văn bản hướng dẫn. Điều 16 Nghị định 248/2026/NĐ-CP không đủ để kết luận về mọi dịch vụ tự động gia hạn.
 
 ## 27. Mang thai và sinh con: từ lúc biết có thai tới khi xuất viện, làm giấy tờ
 
 - **27.2**: Luật chỉ quy định quyền được thanh toán, không ghi số lần khám thai. ⚠️ Chưa kiểm chứng: lịch khám thai tối thiểu theo hướng dẫn chuyên môn hiện hành của Bộ Y tế, và sổ theo dõi sức khoẻ bà mẹ – trẻ em ở Việt Nam cấp theo văn bản nào, có miễn phí không. Hỏi trạm y tế xã/phường nơi đang ở.
 - **27.3**: ⚠️ Chưa kiểm chứng: xét nghiệm giang mai, viêm gan B cho thai phụ được chi trả theo văn bản nào; phác đồ tiêm globulin miễn dịch viêm gan B cho con của mẹ dương tính theo hướng dẫn hiện hành của Bộ Y tế.
-- **27.12**: ⚠️ Chưa kiểm chứng: văn bản hiện hành của Bộ Y tế về mẫu, nơi cấp và cách cấp lại, sửa sai giấy chứng sinh.
 - **27.13**: ⚠️ Chưa kiểm chứng: danh mục bệnh sàng lọc sơ sinh hiện hành và nhóm nào được miễn phí theo nghị định hướng dẫn Luật Dân số. Hỏi khoa sản nơi sinh trước khi ký đồng ý.
-- **27.14**: Có thể làm liên thông khai sinh – đăng ký thường trú – cấp thẻ bảo hiểm y tế cho trẻ dưới 6 tuổi qua Cổng Dịch vụ công quốc gia hoặc VNeID (Nghị định 63/2024/NĐ-CP). ⚠️ Chưa kiểm chứng: Nghị định 63/2024/NĐ-CP còn hiệu lực nguyên văn hay đã được thay thế, sửa đổi trong năm 2026.
-- **27.15**: Luật Hộ tịch 2026 (số 03/2026/QH16) có hiệu lực từ 01/3/2027. ⚠️ Chưa kiểm chứng: thời hạn đăng ký khai sinh trong Luật Hộ tịch 2026; Việt Nam có quy định trẻ chưa khai sinh vẫn được tiêm chủng như Trung Quốc không (về tiêm chủng xem chương 20 mục 3).
+- **27.15**: ⚠️ Chưa kiểm chứng: quy định riêng bảo đảm trẻ chưa khai sinh vẫn được tiêm chủng; không trì hoãn hỏi cơ sở tiêm về lịch của con (xem chương 20 mục 3).
 
 ## 28. Đừng vì ngoại hình mà hại thân
 
@@ -520,7 +506,7 @@ Tự sinh bằng `node cong-cu/chua-kiem-chung.mjs`, đừng sửa tay. Yêu c�
 - **31.9**: ⚠️ Chưa kiểm chứng: điều kiện tuổi, học vấn cụ thể để tuyển vào lực lượng phòng cháy, chữa cháy và cứu nạn, cứu hộ ở Việt Nam, và con đường tương đương "nhân viên văn chức quân đội" (công nhân, viên chức quốc phòng) cùng ngưỡng tuổi của nó; chưa đọc văn bản gốc.
 - **31.10**: ⚠️ Chưa kiểm chứng: Việt Nam có kỳ thi cấp bằng độc lập tương đương chế độ "thi tự học" của Trung Quốc hay không; hai điều luật trên chỉ quy định hình thức học.
 - **31.10**: ⚠️ Chưa kiểm chứng: Việt Nam có một trang tra cứu văn bằng đại học duy nhất, có giá trị pháp lý như trang Học tín của Trung Quốc hay không, và quy định cấm quảng cáo "học nhanh, bao đỗ" cho chương trình cấp bằng; chưa đọc văn bản gốc. Trước khi nộp tiền, hỏi thẳng trường cấp bằng (không phải trung tâm liên kết) và tra danh sách chương trình trên cổng của trường.
-- **31.11**: ⚠️ Chưa kiểm chứng: mức đóng, tỷ lệ Nhà nước hỗ trợ tiền đóng bảo hiểm xã hội tự nguyện hiện hành, và cách tự tham gia bảo hiểm y tế cho người làm việc linh hoạt; xem thêm các chương về bảo hiểm xã hội.
+- **31.11**: Theo bài giới thiệu Nghị định 159/2025/NĐ-CP, Điều 5 trên Cổng thông tin UBND tỉnh Hưng Yên: hỗ trợ 50% cho hộ nghèo/người sống tại xã đảo, đặc khu theo quy định; 40% hộ cận nghèo; 30% người dân tộc thiểu số; 20% nhóm khác. Tỷ lệ này tính trên 22% chuẩn hộ nghèo nông thôn, không phải toàn bộ mức đóng bạn chọn; thuộc nhiều nhóm lấy mức cao nhất, hỗ trợ tối đa 120 tháng, địa phương có thể hỗ trợ thêm. ⚠️ Chưa kiểm chứng: nguyên văn khoản tương ứng trong bản ký Điều 5 và cách tự tham gia BHYT cho người làm việc linh hoạt.
 - **31.12**: ⚠️ Chưa kiểm chứng: Việt Nam có cơ chế nền tảng đóng phí bảo đảm thương tật nghề nghiệp theo từng đơn như Trung Quốc hay không.
 - **31.12**: ⚠️ Chưa kiểm chứng: người tham gia tự đóng, ngân sách địa phương hỗ trợ một phần tiền đóng, hộ nghèo, hộ cận nghèo được hỗ trợ nhiều hơn; mức đóng và tỷ lệ hỗ trợ cụ thể (báo chí nêu đóng theo phần trăm lương tối thiểu vùng IV, hỗ trợ 30% hộ nghèo, 25% hộ cận nghèo, 10% người khác); chưa đọc toàn văn nghị định nên chưa dẫn được điều, khoản cụ thể.
 - **31.13**: ⚠️ Chưa kiểm chứng: mức hỗ trợ sinh hoạt phí, thời gian phải công tác (tài liệu thứ cấp nêu gấp 2 lần thời gian đào tạo) và cách tính bồi hoàn sau khi sửa đổi năm 2025; chưa đọc văn bản gốc. Việt Nam có chương trình đào tạo bác sĩ theo địa chỉ, cam kết về làm ở cơ sở y tế địa phương hay không, cũng chưa kiểm chứng.

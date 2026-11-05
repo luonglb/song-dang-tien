@@ -176,6 +176,83 @@ Nguồn đã kiểm W0 (03/11/2026): Thông tư 22/2014/TT-BTTTT ban hành Quy h
 | 人民日报 | báo Nhân dân Nhật báo (Trung Quốc) |
 | 预检分诊台 | bàn phân loại cấp cứu |
 
+## Từ thêm từ 9 bài dài (W7, gộp ở W8)
+Đây là cách đã dùng trong `bai/`. Trùng cách dịch cũ thì theo bảng trên.
+
+| Gốc | Dùng |
+|---|---|
+| 掌上 12333 | app "12333 trong lòng bàn tay" (Trung Quốc) |
+| 电子社保卡小程序 | mini-app thẻ an sinh xã hội điện tử |
+| 职业培训补贴目录 | danh mục trợ cấp học nghề |
+| 拉人头 | kéo người vào |
+| 灭火毯 | chăn chữa cháy |
+| 消防过滤式自救呼吸器 | mặt nạ tự cứu lọc khí chữa cháy |
+| 滤毒罐 | hộp lọc độc |
+| 救生哨 | còi cứu sinh |
+| 手摇充电电筒 | đèn pin sạc bằng tay quay |
+| 应急逃生绳 | dây thoát hiểm khẩn cấp |
+| 缓降器 | thiết bị hạ chậm |
+| 碘伏棉棒 | tăm bông tẩm povidone-iodine |
+| 三角巾 | khăn tam giác |
+| 视交叉上核 | nhân trên chéo thị |
+| 下丘脑 | vùng dưới đồi |
+| 主钟 / 外周钟 | đồng hồ chính / đồng hồ ngoại vi |
+| 黑视素 | melanopsin |
+| 褪黑素 | melatonin |
+| 瘦素 | leptin |
+| 昼夜节律错位 | lệch nhịp ngày đêm |
+| 迷走 | phế vị |
+| 糖耐量 | dung nạp glucose |
+| 勒克斯 | lux |
+| 光疗灯箱 | hộp đèn trị liệu ánh sáng |
+| 简易程序 / 普通程序 | thủ tục giản lược / thủ tục thường |
+| 补充责任 | trách nhiệm bổ sung |
+| 安全保障义务 | nghĩa vụ bảo đảm an toàn |
+| 合理使用 | sử dụng hợp lý |
+| 网暴 | bạo lực mạng |
+| 一键取证 | lấy chứng cứ một chạm |
+| 粗率 / 结婚率 / 离婚率 | tỷ suất thô / tỷ suất kết hôn / tỷ suất ly hôn |
+| 离结比 | tỷ số ly hôn trên kết hôn |
+| 全因死亡 | tử vong do mọi nguyên nhân |
+| 选择效应 | hiệu ứng chọn lọc |
+| 发表偏倚 | sai lệch công bố |
+| 效应量 r | độ lớn tác động r |
+| 无酬劳动 | lao động không lương |
+| 时间利用调查 | điều tra sử dụng thời gian |
+| 彩礼 / 婚房 | sính lễ / nhà cưới |
+| 近亲属 | người thân gần |
+| 意定监护 | giám hộ tự chọn |
+| 冷静期 | thời gian cân nhắc |
+| 民政部 | Bộ Dân chính (Trung Quốc) |
+| 国家统计局 | Cục Thống kê Quốc gia (Trung Quốc) |
+| 经营性互联网信息服务 / 非经营性 | dịch vụ thông tin Internet có kinh doanh / phi kinh doanh |
+| 互联网视听节目服务 | dịch vụ chương trình nghe nhìn trên Internet |
+| 网络直播营销 | tiếp thị bằng livestream |
+| 打赏 | tặng quà trong livestream |
+| 互联网数据中心业务 | dịch vụ trung tâm dữ liệu Internet |
+| 互联网接入服务业务 | dịch vụ truy cập Internet |
+| 标准合同 / 认证 / 安全评估 | hợp đồng mẫu / chứng nhận / đánh giá an ninh |
+| 托管 (máy chủ) | thuê chỗ đặt máy trong phòng máy |
+| 散瞳眼底 | khám đáy mắt có nhỏ giãn đồng tử |
+| 通用名药 | thuốc tên chung (generic) |
+| 痛风石 | hạt tophi |
+| 保钾类药 | thuốc giữ kali |
+| 账 (trong 四本账) | bài toán (không dùng "sổ") |
+| 离职证明 | giấy chứng nhận nghỉ việc |
+| 隔断房 | phòng ngăn vách |
+| 长租公寓 | căn hộ cho thuê dài hạn |
+| 资金监管账户 | tài khoản giám sát tiền |
+| 交易资金专用存款账户 | tài khoản tiền gửi chuyên dùng cho giao dịch |
+| 宅基地 / 农房 | đất ở nông thôn (Trung Quốc) / nhà nông thôn |
+| 门诊慢特病认定 | công nhận bệnh mạn tính, bệnh đặc thù ngoại trú |
+| 异地就医备案 | đăng ký khám bệnh nơi khác |
+| 个税汇算 | quyết toán thuế thu nhập cá nhân |
+| 母子健康手册 | Sổ sức khoẻ mẹ và bé |
+| 出生医学证明 | Giấy chứng sinh |
+| 子痫前期 | tiền sản giật |
+| 无痛分娩 | đẻ không đau |
+| 百白破 | bạch hầu, ho gà, uốn ván |
+
 Tên người, địa danh Trung Quốc ngoài trường Nguồn: phiên âm Hán-Việt (孙鹏 → Tôn Bằng). Trong Nguồn: giữ chữ Hán + phiên âm trong ngoặc khi cần.
 
 ## Đề xuất đổi từ (Manager quyết)
