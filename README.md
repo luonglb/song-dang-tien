@@ -20,12 +20,12 @@ Không cần làm hết. Đây là danh sách để chọn, không phải danh s
 ## Đọc ở đâu
 - Đọc trên GitHub: bấm tên chương ở bảng dưới.
 - Bản web có tìm kiếm, lọc (gõ không dấu vẫn ra): **<https://zero2better.com/song-dang-tien/>**
-- File EPUB trọn bộ (34 chương và Phụ lục 9 bài dài) để đọc trên điện thoại, máy đọc sách: [tải EPUB](https://github.com/luonglb/song-dang-tien/releases/latest/download/Song-Dang-Tien.epub).
-- File PDF 9 bài dài: [tải PDF](https://github.com/luonglb/song-dang-tien/releases/latest/download/Song-Dang-Tien-bai-dai.pdf).
-- File PDF trọn bộ (có Phụ lục 9 bài dài): [tải PDF](https://github.com/luonglb/song-dang-tien/releases/latest/download/Song-Dang-Tien-tron-bo.pdf). PDF từng chương: [xem trên GitHub Releases](https://github.com/luonglb/song-dang-tien/releases/latest).
+- File EPUB trọn bộ (34 chương và Phụ lục 9 bài chuyên đề) để đọc trên điện thoại, máy đọc sách: [tải EPUB](https://github.com/luonglb/song-dang-tien/releases/latest/download/Song-Dang-Tien.epub).
+- File PDF 9 bài chuyên đề: [tải PDF](https://github.com/luonglb/song-dang-tien/releases/latest/download/Song-Dang-Tien-bai-dai.pdf).
+- File PDF trọn bộ (có Phụ lục 9 bài chuyên đề): [tải PDF](https://github.com/luonglb/song-dang-tien/releases/latest/download/Song-Dang-Tien-tron-bo.pdf). PDF từng chương: [xem trên GitHub Releases](https://github.com/luonglb/song-dang-tien/releases/latest).
 
-## 9 bài dài
-Chín bài dài của bản gốc, dịch từ tiếng Trung, có khung "Ở Việt Nam". Có trên GitHub, trong PDF riêng, Phụ lục của PDF trọn bộ và EPUB. Trên web chưa có.
+## 9 bài chuyên đề
+Chín bài chuyên đề của bản gốc, dịch từ tiếng Trung, có khung "Ở Việt Nam". Đọc trên web: <https://zero2better.com/song-dang-tien/bai/>. Cũng có trên GitHub, trong PDF riêng, Phụ lục của PDF trọn bộ và EPUB (trong hai file PDF và EPUB vẫn ghi tên cũ "9 bài dài").
 
 - [Bị sa thải thì làm gì trước](bai/bi-sa-thai-lam-gi-truoc.md)
 - [Trước khi đổi việc, đổi thành phố](bai/truoc-khi-doi-viec-doi-thanh-pho.md)
